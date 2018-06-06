@@ -6,4 +6,4 @@ Tech Companies in Tokyo, Japan
 * [Justa](https://justa.io/candidate/jobs)
 
 ## Companies
-* [Reallyenglish](https://www.reallyenglish.com/)
+* [Reallyenglish](https://github.com/tibbsm/TechInTokyo/tree/master/reallyenglish)
