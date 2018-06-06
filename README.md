@@ -7,3 +7,4 @@ Tech Companies in Tokyo, Japan
 
 ## Companies
 * [Reallyenglish](https://github.com/tibbsm/TechInTokyo/tree/master/reallyenglish)
+* [Wizcorp](https://www.wizcorp.jp/#home)
