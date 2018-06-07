@@ -1,6 +1,6 @@
 # Atilika
 
-#### Software Engineer Intern
+### Software Engineer Intern
 
 * Good overall programming skills with at least one of the following languages: Java, Python, or JavaScript.
 * Experience developing web applications, including familiarity with HTML, CSS, and popular tools like React or jQuery is a plus.
