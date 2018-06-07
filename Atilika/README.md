@@ -9,12 +9,24 @@
 * Some level of proficiency in Japanese or keen interest is a big plus.
 * A Bachelor or Masters degree in computer science or other relevant field.
 
-### Java: UC Berkley 61A&61B (DS & Algs)
-### Python: https://www.udemy.com/complete-python-bootcamp/
+### Java: 
+* UC Berkley 61A&61B (DS & Algs)
+### Python: 
+* Python Bootcamp - https://www.udemy.com/complete-python-bootcamp/
 ### JavaScript:
 ### HTML/CSS/React/jQuery
-### Information Retrieval/Computational Linguistics
+* Dotinstall
+### Information Retrieval
+* https://www.udemy.com/information-retrieval-and-mining-massive-data-sets/
+### Computational Linguistics
+* https://www.coursera.org/learn/language-processing
+* https://github.com/Anwarvic/Dan-Jurafsky--Chris-Manning--Natural-Language-Processing
+* https://www.udemy.com/data-science-natural-language-processing-in-python/
 ### Solr
+* https://www.udemy.com/learn-apache-solr-with-big-data-and-cloud-computing/
+### Lucene
 ### Elasticsearch
+* https://www.udemy.com/elasticsearch-complete-guide/
 ### PostgreSQL
-### Japanese
+* https://www.udemy.com/the-complete-python-postgresql-developer-course/
+
