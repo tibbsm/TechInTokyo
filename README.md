@@ -19,7 +19,10 @@ Tech Companies in Tokyo, Japan
 * https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content
 
 ## TODO
+* Projects
+ * Focus should be here
+ 
 * Resume
 * Cover Letter
-* Projects
+
 * [Website](tibbsm.github.io)
