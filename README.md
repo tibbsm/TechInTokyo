@@ -21,7 +21,8 @@ Tech Companies in Tokyo, Japan
 ## TODO
 * Projects
  * Focus should be here
- 
+* Classes
+ * And here. But theyre related
 * Resume
 * Cover Letter
 
