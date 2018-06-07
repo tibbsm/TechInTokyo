@@ -3,6 +3,8 @@
 ### Software Engineer Intern
 
 * Good overall programming skills with at least one of the following languages: Java, Python, or JavaScript.
+  * Test
+  
 * Experience developing web applications, including familiarity with HTML, CSS, and popular tools like React or jQuery is a plus.
 * Prior experience in information retrieval or computational linguistics is a big plus.
 * Prior experience with popular tools such as Lucene, Solr, Elasticsearch or PostgreSQL is a plus.
