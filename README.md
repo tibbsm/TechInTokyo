@@ -21,3 +21,4 @@ Tech Companies in Tokyo, Japan
 ## TODO
 * Resume
 * Cover Letter
+* Projects
