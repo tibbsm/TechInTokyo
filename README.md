@@ -26,4 +26,6 @@ Tech Companies in Tokyo, Japan
 * Resume
 * Cover Letter
 
-* [Website](tibbsm.github.io)
+* [Website](https://tibbsm.github.io)
+
+* N2 Japanese
