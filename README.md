@@ -19,4 +19,4 @@ Tech Companies in Tokyo, Japan
 * https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content
 
 * Resume
-
+* Cover Letter
