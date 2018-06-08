@@ -19,14 +19,4 @@ Tech Companies in Tokyo, Japan
 * Pluralsight 10 day + student 30 day
 * https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content
 
-## TODO
-* Projects
- * Focus should be here
-* Classes
- * And here. But theyre related
-* Resume
-* Cover Letter
 
-* [Website](https://tibbsm.github.io)
-
-* N2 Japanese
