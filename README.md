@@ -7,6 +7,7 @@ Tech Companies in Tokyo, Japan
 
 ## Companies
 * [Atilika](https://github.com/tibbsm/TechInTokyo/tree/master/Atilika)
+* [Atilika](Atilika)
 * [Reallyenglish](https://github.com/tibbsm/TechInTokyo/tree/master/reallyenglish)
 * [Wizcorp](https://www.wizcorp.jp/#home)
 * [InfoStellar](https://www.infostellar.net/careers/)
