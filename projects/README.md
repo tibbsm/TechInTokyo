@@ -7,3 +7,6 @@
 * [Udemy Python Bootcamp](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content)
 * [Build Your Own [insert]](https://github.com/danistefanovic/build-your-own-x#build-your-own-game)
 * [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+* [Awesome DIY Software](https://github.com/cweagans/awesome-diy-software)
+* [Project From Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
+* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
