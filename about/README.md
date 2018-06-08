@@ -6,5 +6,8 @@
 
 * Projects/Github...
   * Language Sections
+  * Go
+  * Python
+  * etc...
 * [Website](https://tibbsm.github.io)/Blog Posts
 * N2 Japanese
