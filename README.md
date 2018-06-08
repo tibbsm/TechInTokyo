@@ -5,7 +5,7 @@ Tech Companies in Tokyo, Japan
 * [AngelList](https://angel.co/jobs)
 * [Justa](https://justa.io/candidate/jobs)
 
-## [Companies](companies)
+## [Companies]
 * [Atilika](companies/Atilika)
 * [Reallyenglish](companies/reallyenglish)
 * [Wizcorp](https://www.wizcorp.jp/#home)
