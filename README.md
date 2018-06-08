@@ -10,6 +10,7 @@ Tech Companies in Tokyo, Japan
 * [Reallyenglish](https://github.com/tibbsm/TechInTokyo/tree/master/reallyenglish)
 * [Wizcorp](https://www.wizcorp.jp/#home)
 * [InfoStellar](https://www.infostellar.net/careers/)
+* [HDE](https://www.hde.co.jp/en/)
 
 
 ## ETC
