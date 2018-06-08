@@ -6,9 +6,8 @@ Tech Companies in Tokyo, Japan
 * [Justa](https://justa.io/candidate/jobs)
 
 ## Companies
-* [Atilika](https://github.com/tibbsm/TechInTokyo/tree/master/Atilika)
 * [Atilika](companies/Atilika)
-* [Reallyenglish](https://github.com/tibbsm/TechInTokyo/tree/master/reallyenglish)
+* [Reallyenglish](companies/reallyenglish)
 * [Wizcorp](https://www.wizcorp.jp/#home)
 * [InfoStellar](https://www.infostellar.net/careers/)
 * [HDE](https://www.hde.co.jp/en/)
