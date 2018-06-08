@@ -6,3 +6,4 @@
 * Pluralsight 10 day + student 30 day
 * [Udemy Python Bootcamp](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content)
 * [Build Your Own [insert]](https://github.com/danistefanovic/build-your-own-x#build-your-own-game)
+* [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
