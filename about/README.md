@@ -7,4 +7,6 @@
 * Projects/Github...
   * Language Sections
 * Website/Blog
-*
+* [Website](https://tibbsm.github.io)
+
+* N2 Japanese
