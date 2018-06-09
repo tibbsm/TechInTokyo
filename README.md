@@ -14,3 +14,4 @@ Tech Companies in Tokyo, Japan
 * [Wizcorp](https://www.wizcorp.jp/#home)
 * [InfoStellar](https://www.infostellar.net/careers/)
 * [HDE](https://www.hde.co.jp/en/)
+* [Borderless](https://angel.co/borderless/jobs)
