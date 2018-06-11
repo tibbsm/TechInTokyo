@@ -10,3 +10,4 @@
 * [Awesome DIY Software](https://github.com/cweagans/awesome-diy-software)
 * [Project From Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* [A Course in Machine Learning](http://ciml.info/?utm_source=hackernewsletter&utm_medium=email&utm_term=data)
