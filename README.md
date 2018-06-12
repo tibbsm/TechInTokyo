@@ -8,6 +8,7 @@ Tech Companies in Tokyo, Japan
 ## Job Aggregate Sites
 * [AngelList](https://angel.co/jobs)
 * [Justa](https://justa.io/candidate/jobs)
+* [ActiveConnector](https://www.active-connector.com/)
 
 ## Recruit
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
