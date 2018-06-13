@@ -10,4 +10,14 @@
   * Python
   * etc...
 * [Website](https://tibbsm.github.io)/Blog Posts
+
+Personal Skills
 * N2 Japanese
+
+Marketing/Social Media
+* Your personal brand
+* Linkedin
+* Facebook
+* Twitter
+* Youtube
+* Github
