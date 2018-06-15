@@ -27,3 +27,4 @@ Tech Companies in Tokyo, Japan
 
 ## Notes
 * Remote work options and pathways
+* What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
