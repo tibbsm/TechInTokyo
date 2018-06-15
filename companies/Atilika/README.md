@@ -30,3 +30,6 @@
 ### PostgreSQL
 * https://www.udemy.com/the-complete-python-postgresql-developer-course/
 
+
+* Using the Natural Language API from Google Docs - https://codelabs.developers.google.com/codelabs/nlp-from-google-docs/index.html?index=..%2F..%2Findex#4
+
