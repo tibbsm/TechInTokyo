@@ -24,6 +24,7 @@ Tech Companies in Tokyo, Japan
 * [InfoStellar](https://www.infostellar.net/careers/)
 * [HDE](https://www.hde.co.jp/en/)
 * [Borderless](https://angel.co/borderless/jobs)
+* [Styler Inc](https://styler.link/)
 
 ## Notes
 * Remote work options and pathways
