@@ -26,6 +26,7 @@ Tech Companies in Tokyo, Japan
 * [HDE](https://www.hde.co.jp/en/)
 * [Borderless](https://angel.co/borderless/jobs)
 * [Styler Inc](https://styler.link/)
+* [Emotion Intelligence](https://www.emin.co.jp/en/)
 
 ## Notes
 * Remote work options and pathways
