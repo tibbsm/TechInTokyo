@@ -27,6 +27,7 @@ Tech Companies in Tokyo, Japan
 * [Borderless](https://angel.co/borderless/jobs)
 * [Styler Inc](https://styler.link/)
 * [Emotion Intelligence](https://www.emin.co.jp/en/)
+* [Orb, Inc.](https://imagine-orb.com/)
 
 ## Notes
 * Remote work options and pathways
