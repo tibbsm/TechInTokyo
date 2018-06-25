@@ -1,0 +1,79 @@
+[Tokyo Jobs]
+
+[APPLIED]
+MUJIN 			Oshiage		http://mujin.co.jp/jobs/en
+MJI			Aoyama		https://mjirobotics.co.jp/recruiten/ 
+
+[APPLY NOW]
+96 Problems		Shibuya		https://fromeveryst.com/join-the-team/
+QUOINE			AKASAKAM	https://careers.quoine.com/
+Imagine Orb		Akasaka		https://imagine-orb.com/en/home/careers/software-engineer-intern/
+FASTJAPAN		SENDAGAYA	https://www.wantedly.com/projects/182850 
+YARAKU			SHIBUYA		https://www.yaraku.com/careers/
+WOVN.IO			MINAMIAZABU	https://wovn.io/careers/
+MOI			JIMBOCHO	https://about.moi.st/en/recruit/
+Infostellar 		SHIBUYA		https://www.infostellar.net/company
+Engoo			EBISU		https://app.engoo.com/jobs
+UltraSuperNew		Shibuya 	http://ultrasupernew.com/careers/
+be-spoke				http://www.be-spoke.io/#jobs
+moneytree		Shibuya		https://moneytree.jp/careers/
+Rich Table		Shibuya 	https://www.richtable.net/careers
+MakeLeaps 		NAKAME 		https://www.makeleaps.com/en/jobs/
+CREAM 			NAKAME		https://www.cream-touch.com/contact-job/
+htm 			Mi_Azabu	http://www.htm.co.jp/contact.htm
+
+CATON TECH (Mr. Hamilton from TAC)	http://www.catontechnology.com/~catont6/home/about/careers/
+
+
+GOOGLE			Roppongi	https://careers.google.com/
+RAKUTEN			Futako		https://talent.rakuten.careers/
+
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+
+
+
+[UPPER]
+Kayac			Yokohama	https://www.kayac.com/en/recruit/foreign 
+ATILIKA			Akasaka		https://www.atilika.com/en/careers/ 
+SQUEEZE			Aoyama		https://squeeze-inc.co.jp/job/7/
+COGENT 			DAIKANYAMA	https://www.cogent.co.jp/en/careers/
+WAP					http://career.worksap.com/contents/jobs.html
+Sora			SHIBUYA		http://sora.flights/heroes/ 
+ZEPPELIN		HARAJUKU	https://www.zeppelin.co.jp/join/
+FACTSET 					https://factset.mua.hrdepartment.com/hr/ats/Posting/view/103
+FIDESSA						https://fidessa.csod.com/ats/careersite/JobDetails.aspx?id=725
+GENGO						http://careers.gengo.com/
+VOYAGIN			SHIBUYA		https://www.govoyagin.com/about-us/careers
+RAPYUTA			SHINKAWA	https://www.rapyuta-robotics.com/rapyuta-robotics/careers
+AMAZON			Meuguro		https://www.amazon.jobs/location/tokyo-area-japan
+TIGERSPIKE		Nihonbashi	https://tigerspike.com/contact/tokyo/
+Qt 							https://www1.qt.io/careers/careers-open-application/
+Crowdcast		Otemachi	http://crowdcast.jp/about/hiring/
+BASHO			IKEBUKURO	http://basho.com/careers/
+NANAMEUE		AKASAKA		https://nanameue.jp/careers			
+PRETIA			KORAKUEN	http://www.pretia.co.jp/english
+Preferred 		Otemachi 	https://www.preferred-networks.jp/en/tag/internship
+TENTEN			JINGUMAE	https://www.mytenten.com/careers/
+DJI							https://we.dji.com/index_en.html
+Essential					https://www.essential.com/about#join-us
+Bright Cove					https://www.brightcove.com/en/company/careers
+Every						https://corp.every.tv/recruits
+Soundhound					https://www.soundhound.com/careers
+Trigence					https://www.trigence.com/about-us
+Omise						https://omise.bamboohr.co.uk/jobs/
+Tokyo Wkendr 	MEIJIJINGU	https://www.tokyoweekender.com/careers
+
+
+[TIME]	
+HDE			SHIBUYA 
+Cookpad 		EBISU
+IIJ Inovation 		DEC		http://www.iij-ii.co.jp/en/lab/internship/
+EPIGNO SYS				https://angel.co/epigno-systems/jobs/346623-python-engineer
+LOMBARD			EBISU		https://goo.gl/e2EfR9 (Machine Learning/ Py/ ML concepts/Numpy/Pandas/ Japanese)
+
+
+
+[JOB AGGREGATORS]
+https://cotowork.com/jobs/
+https://www.active-connector.com
