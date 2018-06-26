@@ -1,8 +1,10 @@
 [Tokyo Jobs]
 
+[WORKED]
+MJI			Aoyama		https://mjirobotics.co.jp/recruiten/ 
+
 [APPLIED]
 MUJIN 			Oshiage		http://mujin.co.jp/jobs/en
-MJI			Aoyama		https://mjirobotics.co.jp/recruiten/ 
 
 [APPLY NOW]
 96 Problems		Shibuya		https://fromeveryst.com/join-the-team/
