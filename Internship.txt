@@ -8,6 +8,7 @@ MUJIN 			Oshiage		http://mujin.co.jp/jobs/en
 96 Problems		Shimo		https://fromeveryst.com/join-the-team/
 
 [APPLY NOW]
+TABLECHECK  GINZA     https://corp.tablecheck.com/en/jobs/#intern-it
 QUOINE			AKASAKAM	https://careers.quoine.com/
 Imagine Orb		Akasaka		https://imagine-orb.com/en/home/careers/software-engineer-intern/
 FASTJAPAN		SENDAGAYA	https://www.wantedly.com/projects/182850 
@@ -65,6 +66,8 @@ Soundhound					https://www.soundhound.com/careers
 Trigence					https://www.trigence.com/about-us
 Omise						https://omise.bamboohr.co.uk/jobs/
 Tokyo Wkendr 	MEIJIJINGU	https://www.tokyoweekender.com/careers
+ISPACE        ROPPONGI   https://jobs.lever.co/ispace-inc
+JAPANTRAVEL   KOJIMACHI   https://en.japantravel.com/about/company/jobs#web-developer
 
 
 [TIME]	
