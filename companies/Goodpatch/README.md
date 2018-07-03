@@ -26,6 +26,7 @@ Have programming experience of over half a year and have one  of the following e
 · I have experienced internship in IT company 
 · I have experience developing team using GitHub 
 · I am interested in and interested in design and UI 
+***
 
 ### Android Developer
 
