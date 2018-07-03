@@ -1,13 +1,15 @@
 # Projects
 
-## Language
+
+
+## Languages
 
 ### Java
+* [Twitter Bot](https://github.com/tibbsm/JavaTwitterBot)
 * [ ] [Java: How to Build an Android Reddit App](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y)
 * [ ] [Java: Crafting interpreters: A handbook for making programming languages](http://www.craftinginterpreters.com/)
 * [ ] [Java: Creating JVM Language](http://jakubdziworski.github.io/categories.html#Enkel-ref)
 * [ ] [Java: Neural Networks: Perceptron](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be)
-* [X] [Java: How To Make a Scary Russian Twitter Bot With Java](https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac)
 * [ ] [Java: Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 ***
 
