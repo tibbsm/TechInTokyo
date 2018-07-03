@@ -20,10 +20,11 @@ Tech Companies in Tokyo, Japan
 
 ## Companies
 * [ ] [Atilika](companies/Atilika)
+* [ ] [Goodpatch](companies/Goodpatch)
 * [ ] [Reallyenglish](companies/reallyenglish)
 * [ ] [Wizcorp](https://www.wizcorp.jp/#home)
 * [ ] [InfoStellar](https://www.infostellar.net/careers/)
-* [x] [HDE](https://www.hde.co.jp/en/) Apply again from August
+* [x] [HDE](https://www.hde.co.jp/en/) (Apply again from August)
 * [ ] [Borderless](https://angel.co/borderless/jobs)
 * [ ] [Styler Inc](https://styler.link/)
 * [ ] [Emotion Intelligence](https://www.emin.co.jp/en/)
