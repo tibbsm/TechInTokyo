@@ -19,20 +19,20 @@ Tech Companies in Tokyo, Japan
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 
 ## Companies
-|Company | Location |
-|---|---|
-|[Atilika](companies/Atilika)|Aoyama Itchome |
-|[Goodpatch](companies/Goodpatch)| Shibuya |
-|[TableCheck](companies/tablecheck)| Ginza |
-|[Reallyenglish](companies/reallyenglish)| Kudanshita |
-|[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi |
-|[InfoStellar](https://www.infostellar.net/careers/)| Shibuya |
-|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya |
-|[Borderless](https://angel.co/borderless/jobs)| ??? |
-|[Styler Inc](https://styler.link/)| Shibuya |
-|[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda |
-|[Orb, Inc.](https://imagine-orb.com/)| Akasaka |
-|[Everyst](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
+| |Company | Location |
+|---|---|---|
+| |[Atilika](companies/Atilika)|Aoyama Itchome |
+| |[Goodpatch](companies/Goodpatch)| Shibuya |
+| |[TableCheck](companies/tablecheck)| Ginza |
+| |[Reallyenglish](companies/reallyenglish)| Kudanshita |
+| |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi |
+| |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya |
+| |[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya |
+| |[Borderless](https://angel.co/borderless/jobs)| ??? |
+| |[Styler Inc](https://styler.link/)| Shibuya |
+| |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda |
+| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka |
+| |[Everyst](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
 
 * [ ] [Atilika](companies/Atilika)
 * [ ] [Goodpatch](companies/Goodpatch)
