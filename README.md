@@ -65,20 +65,14 @@ Tech Companies in Tokyo, Japan
 | |[Rapyuta](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa|
 | |[Amazon](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro|
 | |[Tigerspike](https://tigerspike.com/contact/tokyo/)|Nihonbashi|
-| |[Qt](https://www1.qt.io/careers/careers-open-application/)| |
 | |[Crowdcast](http://crowdcast.jp/about/hiring/)|Otemachi|
 | |[Basho](http://basho.com/careers/)|Ikebukuro|
 | |[Nanameue](https://nanameue.jp/careers)|Akasaka|
 | |[Pretia](http://www.pretia.co.jp/english)|Korakuen|
 | |[Preferred Networks](https://www.preferred-networks.jp/en/tag/internship)|Otemachi|
 | |[Tenten](https://www.mytenten.com/careers/)|Jingumae|
-| |[DJI](https://we.dji.com/index_en.html)| |
-| |[Essential](https://www.essential.com/about#join-us)| |
-| |[Bright Cove](https://www.brightcove.com/en/company/careers)| |
-| |[Every](https://corp.every.tv/recruits)| |
-| |[Soundhound](https://www.soundhound.com/careers)| |
-| |[Trigence](https://www.trigence.com/about-us)| |
-| |[Omise](https://omise.bamboohr.co.uk/jobs/)| |
+| |[Trigence](https://www.trigence.com/about-us)|Akihabara|
+| |[Omise](https://omise.bamboohr.co.uk/jobs/)|Shibuyaß|
 | |[Tokyo Weekendr](https://www.tokyoweekender.com/careers)|Jingumae|
 | |[iSapace](https://jobs.lever.co/ispace-inc)|Roppongi|
 | |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi|
