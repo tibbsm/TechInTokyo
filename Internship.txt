@@ -10,7 +10,7 @@ MUJIN 			Oshiage		http://mujin.co.jp/jobs/en
 [APPLY NOW]
 GOODPATCH		SHIBUYA		https://goodpatch.com/career
 TABLECHECK		GINZA		https://corp.tablecheck.com/en/jobs/#intern-it
-AXELSPACE		NIHONBASHI		https://www.axelspace.com/en/career_/open-positions/
+AXELSPACE		NIHONBASHI	https://www.axelspace.com/en/career_/open-positions/
 SEVEN DREAMERS		MITA		https://sevendreamers.com/en/careers/
 QUOINE			AKASAKAM	https://careers.quoine.com/
 Imagine Orb		Akasaka		https://imagine-orb.com/en/home/careers/software-engineer-intern/
