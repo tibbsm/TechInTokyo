@@ -35,13 +35,13 @@ Tech Companies in Tokyo, Japan
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
 |✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae|
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage|
-| |[AXELSPACE](https://www.axelspace.com/en/career_/open-positions/)|NIHONBASHI|
-| |[SEVEN DREAMERS](https://sevendreamers.com/en/careers/)|Mita|
-| |[QUOINE](https://careers.quoine.com/)|Akasaka-Mitsuke|
+| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|NIHONBASHI|
+| |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita|
+| |[Quoine](https://careers.quoine.com/)|Akasaka-Mitsuke|
 | |[Imagine Orb](https://imagine-orb.com/en/home/careers/software-engineer-intern/)|Akasaka|
-| |[FASTJAPAN](https://www.wantedly.com/projects/182850)|Sendagaya|
-| |[YARAKU](https://www.yaraku.com/careers/)|Shibuya|
-| |[WOVN.IO](https://wovn.io/careers/)|Minamiazabu|
+| |[FastJapan](https://www.wantedly.com/projects/182850)|Sendagaya|
+| |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
+| |[Wovn.io](https://wovn.io/careers/)|Minamiazabu|
 | |[MOI](https://about.moi.st/en/recruit/)|Jimbocho|
 | |[Infostellar](https://www.infostellar.net/company)|Jimbocho|
 | |[Engoo](https://app.engoo.com/jobs)|Ebisu|
@@ -55,25 +55,25 @@ Tech Companies in Tokyo, Japan
 | |[Google](https://careers.google.com/)|Roppongi|
 | |[Rakuten](https://talent.rakuten.careers/)|Futako-Tamagawa|
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama|
-| |[SQUEEZE](https://squeeze-inc.co.jp/job/7/)|Aoyama-Itchome|
-| |[COGENT](https://www.cogent.co.jp/en/careers/)|Daikanyama|
+| |[Squeeze](https://squeeze-inc.co.jp/job/7/)|Aoyama-Itchome|
+| |[Cogent Labs](https://www.cogent.co.jp/en/careers/)|Daikanyama|
 | |[WAP](http://career.worksap.com/contents/jobs.html)|Akasaka|
 | |[Sora](http://sora.flights/heroes/)|Shibuya|
-| |[ZEPPELIN](https://www.zeppelin.co.jp/join/)|Harajuku|
-| |[FACTSET](https://factset.mua.hrdepartment.com/hr/ats/Posting/view/103)| |
-| |[FIDESSA](https://fidessa.csod.com/ats/careersite/JobDetails.aspx?id=725)| |
-| |[GENGO](http://careers.gengo.com/)| |
-| |[VOYAGIN](https://www.govoyagin.com/about-us/careers)| Shibuya |
-| |[RAPYUTA](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa|
-| |[AMAZON](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro|
-| |[TIGERSPIKE](https://tigerspike.com/contact/tokyo/)|Nihonbashi|
+| |[Zeppelin](https://www.zeppelin.co.jp/join/)|Harajuku|
+| |[Factset](https://factset.mua.hrdepartment.com/hr/ats/Posting/view/103)| |
+| |[Fidessa](https://fidessa.csod.com/ats/careersite/JobDetails.aspx?id=725)| |
+| |[Gengo](http://careers.gengo.com/)| |
+| |[Voyagin](https://www.govoyagin.com/about-us/careers)| Shibuya |
+| |[Rapyuta](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa|
+| |[Amazon](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro|
+| |[Tigerspike](https://tigerspike.com/contact/tokyo/)|Nihonbashi|
 | |[Qt](https://www1.qt.io/careers/careers-open-application/)| |
 | |[Crowdcast](http://crowdcast.jp/about/hiring/)|Otemachi|
-| |[BASHO](http://basho.com/careers/)|Ikebukuro|
-| |[NANAMEUE](https://nanameue.jp/careers)|Akasaka|
-| |[PRETIA](http://www.pretia.co.jp/english)|Korakuen|
-| |[Preferred](https://www.preferred-networks.jp/en/tag/internship)|Otemachi|
-| |[TENTEN](https://www.mytenten.com/careers/)|Jingumae|
+| |[Basho](http://basho.com/careers/)|Ikebukuro|
+| |[Nanameue](https://nanameue.jp/careers)|Akasaka|
+| |[Pretia](http://www.pretia.co.jp/english)|Korakuen|
+| |[Preferred Networks](https://www.preferred-networks.jp/en/tag/internship)|Otemachi|
+| |[Tenten](https://www.mytenten.com/careers/)|Jingumae|
 | |[DJI](https://we.dji.com/index_en.html)| |
 | |[Essential](https://www.essential.com/about#join-us)| |
 | |[Bright Cove](https://www.brightcove.com/en/company/careers)| |
@@ -82,8 +82,8 @@ Tech Companies in Tokyo, Japan
 | |[Trigence](https://www.trigence.com/about-us)| |
 | |[Omise](https://omise.bamboohr.co.uk/jobs/)| |
 | |[Tokyo Weekendr](https://www.tokyoweekender.com/careers)|Jingumae|
-| |[ISPACE](https://jobs.lever.co/ispace-inc)|Roppongi|
-| |[JAPANTRAVEL](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi|
+| |[iSapace](https://jobs.lever.co/ispace-inc)|Roppongi|
+| |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi|
 
 ## Notes
 * Remote work options and pathways
