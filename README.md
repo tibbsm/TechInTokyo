@@ -35,7 +35,7 @@ Tech Companies in Tokyo, Japan
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
 |✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
-| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|NIHONBASHI| 
+| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita| 
 | |[Quoine](https://careers.quoine.com/)|Akasaka-Mitsuke| 
 | |[Imagine Orb](https://imagine-orb.com/en/home/careers/software-engineer-intern/)|Akasaka| 
