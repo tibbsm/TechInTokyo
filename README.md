@@ -34,19 +34,6 @@ Tech Companies in Tokyo, Japan
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka |
 |✓|[Everyst](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
 
-* [ ] [Atilika](companies/Atilika)
-* [ ] [Goodpatch](companies/Goodpatch)
-* [ ] [TableCheck](companies/tablecheck)
-* [ ] [Reallyenglish](companies/reallyenglish)
-* [ ] [Wizcorp](https://www.wizcorp.jp/#home)
-* [ ] [InfoStellar](https://www.infostellar.net/careers/)
-* [x] [HDE](https://www.hde.co.jp/en/) (Apply again from August)
-* [ ] [Borderless](https://angel.co/borderless/jobs)
-* [ ] [Styler Inc](https://styler.link/)
-* [ ] [Emotion Intelligence](https://www.emin.co.jp/en/)
-* [ ] [Orb, Inc.](https://imagine-orb.com/)
-* [x] [Everyst](https://fromeveryst.com/join-the-team/)
-
 ## Notes
 * Remote work options and pathways
 * What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
