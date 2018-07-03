@@ -1,5 +1,8 @@
 # Projects
 
+# Language
+* [ ] [Java: How to Build an Android Reddit App](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y)
+
 ## edx
 * [Microsoft Professional Program (free)](https://www.edx.org/microsoft-professional-program-entry-level-software)
   * [Reddit review](https://www.reddit.com/r/cscareerquestions/comments/8lligp/after_about_a_week_or_two_of_job_searching_i_just)
