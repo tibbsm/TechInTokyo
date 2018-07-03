@@ -8,7 +8,7 @@ MUJIN 			Oshiage		http://mujin.co.jp/jobs/en
 96 Problems		Shimo		https://fromeveryst.com/join-the-team/
 
 [APPLY NOW]
-GOODPATCH		SHIBUYA   https://goodpatch.com/career
+GOODPATCH		SHIBUYA		https://goodpatch.com/career
 TABLECHECK		GINZA     https://corp.tablecheck.com/en/jobs/#intern-it
 AXELSPACE		NIHONBASHI   https://www.axelspace.com/en/career_/open-positions/
 SEVEN DREAMERS		MITA   https://sevendreamers.com/en/careers/
