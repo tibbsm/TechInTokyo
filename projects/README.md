@@ -11,6 +11,9 @@
 * [ ] [Java: Creating JVM Language](http://jakubdziworski.github.io/categories.html#Enkel-ref)
 * [ ] [Java: Neural Networks: Perceptron](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be)
 * [ ] [Java: Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
+
+### Kotlin
+* [ ] [Android Reddit App (Kotlin)](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 ***
 
 
