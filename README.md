@@ -19,6 +19,19 @@ Tech Companies in Tokyo, Japan
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 
 ## Companies
+[ ] [Atilika](companies/Atilika)
+[ ] [Goodpatch](companies/Goodpatch)
+[ ] [TableCheck](companies/tablecheck)
+[ ] [Reallyenglish](companies/reallyenglish)
+[ ] [Wizcorp](https://www.wizcorp.jp/#home)
+[ ] [InfoStellar](https://www.infostellar.net/careers/)
+[x] [HDE](https://www.hde.co.jp/en/) (Apply again from August)
+[ ] [Borderless](https://angel.co/borderless/jobs)
+[ ] [Styler Inc](https://styler.link/)
+[ ] [Emotion Intelligence](https://www.emin.co.jp/en/)
+[ ] [Orb, Inc.](https://imagine-orb.com/)
+[x] [Everyst](https://fromeveryst.com/join-the-team/)
+
 * [ ] [Atilika](companies/Atilika)
 * [ ] [Goodpatch](companies/Goodpatch)
 * [ ] [TableCheck](companies/tablecheck)
