@@ -52,12 +52,8 @@ Tech Companies in Tokyo, Japan
 | |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 		
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro|		
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu|
-
-CATON TECH (Mr. Hamilton from TAC)	http://www.catontechnology.com/~catont6/home/about/careers/
-
-
-GOOGLE			Roppongi	https://careers.google.com/
-RAKUTEN			Futako		https://talent.rakuten.careers/
+| |[Google](https://careers.google.com/)|Roppongi|
+| |[Rakuten](https://talent.rakuten.careers/)|Futako-Tamagawa|
 
 ## Notes
 * Remote work options and pathways
