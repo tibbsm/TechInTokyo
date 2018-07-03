@@ -3,7 +3,6 @@
 [Website](https://goodpatch.com/studios/tokyo)
 
 [Directions](https://goo.gl/maps/9D9eAQoQkwR2) – (17 minute walk)
-
 ===
 
 ## Open Positions
