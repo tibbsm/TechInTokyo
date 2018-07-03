@@ -20,7 +20,7 @@ Please do not apply for this position unless you are capable in the following ar
 * Ability to use Github / Git source control.
 * At least one open-source project which we can review.
 
-Optional Skills
+#### Optional Skills
 * UI/UX design skills.
 * Test-driven development.
 * Design skills, CSS.
