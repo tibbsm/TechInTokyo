@@ -28,7 +28,7 @@ Tech Companies in Tokyo, Japan
 * [Styler Inc](https://styler.link/)
 * [Emotion Intelligence](https://www.emin.co.jp/en/)
 * [Orb, Inc.](https://imagine-orb.com/)
-* [Everyst](https://fromeveryst.com/join-the-team/)
+* [x] [Everyst](https://fromeveryst.com/join-the-team/)
 
 ## Notes
 * Remote work options and pathways
