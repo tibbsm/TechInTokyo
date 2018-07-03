@@ -20,7 +20,7 @@ Tech Companies in Tokyo, Japan
 
 ## Companies
 | |Company | Location | Website |
-|---|---|---|
+|---|---|---|---|
 | |[Atilika](companies/Atilika)|Aoyama Itchome | |
 | |[Goodpatch](companies/Goodpatch)| Shibuya | |
 | |[TableCheck](companies/tablecheck)| Ginza | |
