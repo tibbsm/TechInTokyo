@@ -54,6 +54,36 @@ Tech Companies in Tokyo, Japan
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu|
 | |[Google](https://careers.google.com/)|Roppongi|
 | |[Rakuten](https://talent.rakuten.careers/)|Futako-Tamagawa|
+| |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama|
+| |[SQUEEZE](https://squeeze-inc.co.jp/job/7/)|Aoyama-Itchome|
+| |[COGENT](https://www.cogent.co.jp/en/careers/)|Daikanyama|
+| |[WAP](http://career.worksap.com/contents/jobs.html)|Akasaka|
+| |[Sora](http://sora.flights/heroes/)|Shibuya|
+| |[ZEPPELIN](https://www.zeppelin.co.jp/join/)|Harajuku|
+| |[FACTSET](https://factset.mua.hrdepartment.com/hr/ats/Posting/view/103)| |
+| |[FIDESSA](https://fidessa.csod.com/ats/careersite/JobDetails.aspx?id=725)| |
+| |[GENGO](http://careers.gengo.com/)| |
+| |[VOYAGIN](https://www.govoyagin.com/about-us/careers)| Shibuya |
+| |[RAPYUTA](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa|
+| |[AMAZON](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro|
+| |[TIGERSPIKE](https://tigerspike.com/contact/tokyo/)|Nihonbashi|
+| |[Qt](https://www1.qt.io/careers/careers-open-application/)| |
+| |[Crowdcast](http://crowdcast.jp/about/hiring/)|Otemachi|
+| |[BASHO](http://basho.com/careers/)|Ikebukuro|
+| |[NANAMEUE](https://nanameue.jp/careers)|Akasaka|
+| |[PRETIA](http://www.pretia.co.jp/english)|Korakuen|
+| |[Preferred](https://www.preferred-networks.jp/en/tag/internship)|Otemachi|
+| |[TENTEN](https://www.mytenten.com/careers/)|Jingumae|
+| |[DJI](https://we.dji.com/index_en.html)| |
+| |[Essential](https://www.essential.com/about#join-us)| |
+| |[Bright Cove](https://www.brightcove.com/en/company/careers)| |
+| |[Every](https://corp.every.tv/recruits)| |
+| |[Soundhound](https://www.soundhound.com/careers)| |
+| |[Trigence](https://www.trigence.com/about-us)| |
+| |[Omise](https://omise.bamboohr.co.uk/jobs/)| |
+| |[Tokyo Weekendr](https://www.tokyoweekender.com/careers)|Jingumae|
+| |[ISPACE](https://jobs.lever.co/ispace-inc)|Roppongi|
+| |[JAPANTRAVEL](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi|
 
 ## Notes
 * Remote work options and pathways
