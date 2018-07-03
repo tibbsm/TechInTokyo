@@ -27,12 +27,12 @@ Tech Companies in Tokyo, Japan
 | |[Reallyenglish](companies/reallyenglish)| Kudanshita |
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi |
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya |
-|X|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya |
+|✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya |
 | |[Borderless](https://angel.co/borderless/jobs)| ??? |
 | |[Styler Inc](https://styler.link/)| Shibuya |
 | |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda |
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka |
-|X|[Everyst](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
+|✓|[Everyst](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
 
 * [ ] [Atilika](companies/Atilika)
 * [ ] [Goodpatch](companies/Goodpatch)
