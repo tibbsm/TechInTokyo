@@ -4,19 +4,20 @@
 
 [Directions](https://goo.gl/maps/9D9eAQoQkwR2) – (17 minute walk)
 
-Open Positions
----
+===
 
-* Android Developer
----
-* UI Designer
----
-* iOS Developer
----
-* Front-end Engineer
----
-* Project Manager
----
-* Project Manager（FinTech）
----
+## Open Positions
+
+### Android Developer
+
+### UI Designer
+
+### iOS Developer
+
+### Front-end Engineer
+
+### Project Manager
+
+### Project Manager（FinTech）
+
 
