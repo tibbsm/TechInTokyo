@@ -19,7 +19,7 @@ Tech Companies in Tokyo, Japan
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 
 ## Companies
-| |Company | Location |
+| |Company | Location | 
 |---|---|---|
 | |[Atilika](companies/Atilika)|Aoyama Itchome |
 | |[Goodpatch](companies/Goodpatch)| Shibuya |
@@ -32,7 +32,32 @@ Tech Companies in Tokyo, Japan
 | |[Styler Inc](https://styler.link/)| Shibuya |
 | |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda |
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka |
-|✓|[Everyst](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
+|✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa |
+|✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae|
+|✓|[Mujin](https://mujin.co.jp/)|Oshiage|
+| |[AXELSPACE](https://www.axelspace.com/en/career_/open-positions/)|NIHONBASHI|
+| |[SEVEN DREAMERS](https://sevendreamers.com/en/careers/)|Mita|
+| |[QUOINE](https://careers.quoine.com/)|Akasaka-Mitsuke|
+| |[Imagine Orb](https://imagine-orb.com/en/home/careers/software-engineer-intern/)|Akasaka|
+| |[FASTJAPAN](https://www.wantedly.com/projects/182850)|Sendagaya|
+| |[YARAKU](https://www.yaraku.com/careers/)|Shibuya|
+| |[WOVN.IO](https://wovn.io/careers/)|Minamiazabu|
+| |[MOI](https://about.moi.st/en/recruit/)|Jimbocho|
+| |[Infostellar](https://www.infostellar.net/company)|Jimbocho|
+| |[Engoo](https://app.engoo.com/jobs)|Ebisu|
+| |[UltraSuperNew](http://ultrasupernew.com/careers/)|Shibuya|
+| |[be-spoke](http://www.be-spoke.io/#jobs)|Shibuya|
+| |[moneytree](https://moneytree.jp/careers/)|Shibuya|
+| |[Rich Table](https://www.richtable.net/careers)|Shibuya|
+| |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 		
+| |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro|		
+| |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu|
+
+CATON TECH (Mr. Hamilton from TAC)	http://www.catontechnology.com/~catont6/home/about/careers/
+
+
+GOOGLE			Roppongi	https://careers.google.com/
+RAKUTEN			Futako		https://talent.rakuten.careers/
 
 ## Notes
 * Remote work options and pathways
