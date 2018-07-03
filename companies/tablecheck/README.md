@@ -10,11 +10,11 @@
 
 #### Job Description
 
-... At TableCheck, we create Japan's top apps for restaurant management and reservation booking, using the latest web technologies. As a IT Engineer Intern, you will work closely with our team of experienced coders and assist in the next-generation of restaurant apps in Japan. You will gain exposure to a broad range of IT projects and learn how robust, bug-free web applications are built in the real-world. We will only consider applicant who have some previous experience coding.
+At TableCheck, we create Japan's top apps for restaurant management and reservation booking, using the latest web technologies. As a IT Engineer Intern, you will work closely with our team of experienced coders and assist in the next-generation of restaurant apps in Japan. You will gain exposure to a broad range of IT projects and learn how robust, bug-free web applications are built in the real-world. We will only consider applicant who have some previous experience coding.
 
 #### Mandatory Skills
 
-... Please do not apply for this position unless you are capable in the following areas:
+Please do not apply for this position unless you are capable in the following areas:
 
 * Experience coding in Javascript (React, Node.js), Ruby, and/or Elixir language, as either a hobby or professionally.
 * Ability to use Github / Git source control.
@@ -29,7 +29,7 @@ Optional Skills
 * Software security.
 * Language Skills
 
-Fluent English.
+Fluent English.  
 Native-level Japanese, Chinese or Korean are a plus.
 
 Evaluation Criteria
