@@ -23,7 +23,7 @@ Tech Companies in Tokyo, Japan
 * [ ] [Reallyenglish](companies/reallyenglish)
 * [ ] [Wizcorp](https://www.wizcorp.jp/#home)
 * [ ] [InfoStellar](https://www.infostellar.net/careers/)
-* [ ] [HDE](https://www.hde.co.jp/en/)
+* [x] [HDE](https://www.hde.co.jp/en/) Apply again from August
 * [ ] [Borderless](https://angel.co/borderless/jobs)
 * [ ] [Styler Inc](https://styler.link/)
 * [ ] [Emotion Intelligence](https://www.emin.co.jp/en/)
