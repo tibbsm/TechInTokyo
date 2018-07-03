@@ -5,10 +5,7 @@
 * [Cover Letter LaTeX](https://www.sharelatex.com/project/5b3982d920af7c431c3c8870)
 
 * [Projects](../projects/)
-  * Language Sections
-  * Go
-  * Python
-  * etc...
+
 * [Website](https://tibbsm.github.io)
 
 Personal Skills
