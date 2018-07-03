@@ -60,9 +60,7 @@ Tech Companies in Tokyo, Japan
 | |[WAP](http://career.worksap.com/contents/jobs.html)|Akasaka|
 | |[Sora](http://sora.flights/heroes/)|Shibuya|
 | |[Zeppelin](https://www.zeppelin.co.jp/join/)|Harajuku|
-| |[Factset](https://factset.mua.hrdepartment.com/hr/ats/Posting/view/103)| |
-| |[Fidessa](https://fidessa.csod.com/ats/careersite/JobDetails.aspx?id=725)| |
-| |[Gengo](http://careers.gengo.com/)| |
+| |[Gengo](http://careers.gengo.com/)|Shibuya|
 | |[Voyagin](https://www.govoyagin.com/about-us/careers)| Shibuya |
 | |[Rapyuta](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa|
 | |[Amazon](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro|
