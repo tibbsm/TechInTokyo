@@ -21,6 +21,7 @@ Tech Companies in Tokyo, Japan
 ## Companies
 * [ ] [Atilika](companies/Atilika)
 * [ ] [Goodpatch](companies/Goodpatch)
+* [ ] [TableCheck](https://corp.tablecheck.com/en/jobs/)
 * [ ] [Reallyenglish](companies/reallyenglish)
 * [ ] [Wizcorp](https://www.wizcorp.jp/#home)
 * [ ] [InfoStellar](https://www.infostellar.net/careers/)
