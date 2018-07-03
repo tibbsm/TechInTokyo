@@ -19,15 +19,15 @@ Tech Companies in Tokyo, Japan
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 
 ## Companies
-* [Atilika](companies/Atilika)
-* [Reallyenglish](companies/reallyenglish)
-* [Wizcorp](https://www.wizcorp.jp/#home)
-* [InfoStellar](https://www.infostellar.net/careers/)
-* [HDE](https://www.hde.co.jp/en/)
-* [Borderless](https://angel.co/borderless/jobs)
-* [Styler Inc](https://styler.link/)
-* [Emotion Intelligence](https://www.emin.co.jp/en/)
-* [Orb, Inc.](https://imagine-orb.com/)
+* [ ] [Atilika](companies/Atilika)
+* [ ] [Reallyenglish](companies/reallyenglish)
+* [ ] [Wizcorp](https://www.wizcorp.jp/#home)
+* [ ] [InfoStellar](https://www.infostellar.net/careers/)
+* [ ] [HDE](https://www.hde.co.jp/en/)
+* [ ] [Borderless](https://angel.co/borderless/jobs)
+* [ ] [Styler Inc](https://styler.link/)
+* [ ] [Emotion Intelligence](https://www.emin.co.jp/en/)
+* [ ] [Orb, Inc.](https://imagine-orb.com/)
 * [x] [Everyst](https://fromeveryst.com/join-the-team/)
 
 ## Notes
