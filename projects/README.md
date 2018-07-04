@@ -23,6 +23,7 @@
 ### edx
 * [Microsoft Professional Program (free)](https://www.edx.org/microsoft-professional-program-entry-level-software)
   * [Reddit review](https://www.reddit.com/r/cscareerquestions/comments/8lligp/after_about_a_week_or_two_of_job_searching_i_just)
+* [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native-mobile?utm_source=email&utm_medium=partner-marketing&utm_content=email-harvardx-cs50&utm_campaign=harvardx)
 
 ### Pluralsight
 * Pluralsight 10 day + student 30 day
