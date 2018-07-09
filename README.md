@@ -22,9 +22,14 @@ Tech Companies in Tokyo, Japan
 ## Companies
 | |Company | Location | 
 |---|---|---|
+|Interships| | |
 | |[Atilika](companies/Atilika)|Aoyama Itchome | 
 | |[Goodpatch](companies/Goodpatch)| Shibuya | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
+| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
+| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
+| |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
+|Jobs| | |
 | |[Reallyenglish](companies/reallyenglish)| Kudanshita | 
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
@@ -32,16 +37,13 @@ Tech Companies in Tokyo, Japan
 | |[Borderless](https://angel.co/borderless/jobs)| ??? | 
 | |[Styler Inc](https://styler.link/)| Shibuya | 
 | |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda | 
-| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
 |✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
-| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita| 
 | |[Quoine](https://careers.quoine.com/)|Akasaka-Mitsuke| 
 | |[Imagine Orb](https://imagine-orb.com/en/home/careers/software-engineer-intern/)|Akasaka| 
 | |[FastJapan](https://www.wantedly.com/projects/182850)|Sendagaya| 
-| |[Yaraku](https://www.yaraku.com/careers/)|Shibuya| 
 | |[Wovn.io](https://wovn.io/careers/)|Minamiazabu| 
 | |[MOI](https://about.moi.st/en/recruit/)|Jimbocho| 
 | |[Infostellar](https://www.infostellar.net/company)|Jimbocho| 
