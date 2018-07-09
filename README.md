@@ -77,6 +77,7 @@ Tech Companies in Tokyo, Japan
 | |[Tokyo Weekendr](https://www.tokyoweekender.com/careers)|Jingumae| 
 | |[iSapace](https://jobs.lever.co/ispace-inc)|Roppongi| 
 | |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
+| |[Net Smile](https://netsmile.jp/en/)|Yushima| 
 
 ## Notes
 * Remote work options and pathways
