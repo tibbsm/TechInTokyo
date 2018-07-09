@@ -24,13 +24,16 @@ Tech Companies in Tokyo, Japan
 ### Internships
 | |Company | Location | 
 |---|---|---|
-|Interships| | |
 | |[Atilika](companies/Atilika)|Aoyama Itchome | 
 | |[Goodpatch](companies/Goodpatch)| Shibuya | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
+|✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
+|✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
+|✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
+|✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
 
 ### Jobs
 | |Company | Location | 
@@ -38,13 +41,9 @@ Tech Companies in Tokyo, Japan
 | |[Reallyenglish](companies/reallyenglish)| Kudanshita | 
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
-|✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
 | |[Borderless](https://angel.co/borderless/jobs)| ??? | 
 | |[Styler Inc](https://styler.link/)| Shibuya | 
 | |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda | 
-|✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
-|✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
-|✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
 | |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita| 
 | |[Quoine](https://careers.quoine.com/)|Akasaka-Mitsuke| 
 | |[Imagine Orb](https://imagine-orb.com/en/home/careers/software-engineer-intern/)|Akasaka| 
