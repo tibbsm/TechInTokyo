@@ -30,6 +30,7 @@ Tech Companies in Tokyo, Japan
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
+| |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
 |✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
@@ -54,7 +55,6 @@ Tech Companies in Tokyo, Japan
 | |[be-spoke](http://www.be-spoke.io/#jobs)|Shibuya| 
 | |[moneytree](https://moneytree.jp/careers/)|Shibuya| 
 | |[Rich Table](https://www.richtable.net/careers)|Shibuya| 
-| |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro| 
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
 | |[Google](https://careers.google.com/)|Roppongi| 
