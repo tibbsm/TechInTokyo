@@ -31,6 +31,9 @@ Tech Companies in Tokyo, Japan
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
 | |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
+| |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro| 
+| |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
+| |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
 |✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
@@ -55,11 +58,8 @@ Tech Companies in Tokyo, Japan
 | |[be-spoke](http://www.be-spoke.io/#jobs)|Shibuya| 
 | |[moneytree](https://moneytree.jp/careers/)|Shibuya| 
 | |[Rich Table](https://www.richtable.net/careers)|Shibuya| 
-| |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro| 
-| |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
 | |[Google](https://careers.google.com/)|Roppongi| 
 | |[Rakuten](https://talent.rakuten.careers/)|Futako-Tamagawa| 
-| |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
 | |[Squeeze](https://squeeze-inc.co.jp/job/7/)|Aoyama-Itchome| 
 | |[Cogent Labs](https://www.cogent.co.jp/en/careers/)|Daikanyama| 
 | |[WAP](http://career.worksap.com/contents/jobs.html)|Akasaka| 
