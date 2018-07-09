@@ -20,6 +20,8 @@ Tech Companies in Tokyo, Japan
 * [Fidel Consulting](http://www.fidelconsulting.com/ns/)
 
 ## Companies
+
+### Internships
 | |Company | Location | 
 |---|---|---|
 |Interships| | |
@@ -29,7 +31,10 @@ Tech Companies in Tokyo, Japan
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
-|Jobs| | |
+
+### Jobs
+| |Company | Location | 
+|---|---|---|
 | |[Reallyenglish](companies/reallyenglish)| Kudanshita | 
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
