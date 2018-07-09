@@ -46,11 +46,9 @@ Tech Companies in Tokyo, Japan
 | |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda | 
 | |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita| 
 | |[Quoine](https://careers.quoine.com/)|Akasaka-Mitsuke| 
-| |[Imagine Orb](https://imagine-orb.com/en/home/careers/software-engineer-intern/)|Akasaka| 
 | |[FastJapan](https://www.wantedly.com/projects/182850)|Sendagaya| 
 | |[Wovn.io](https://wovn.io/careers/)|Minamiazabu| 
-| |[MOI](https://about.moi.st/en/recruit/)|Jimbocho| 
-| |[Infostellar](https://www.infostellar.net/company)|Jimbocho| 
+| |[MOI](https://about.moi.st/en/recruit/)|Jimbocho|  
 | |[Engoo](https://app.engoo.com/jobs)|Ebisu| 
 | |[UltraSuperNew](http://ultrasupernew.com/careers/)|Shibuya| 
 | |[be-spoke](http://www.be-spoke.io/#jobs)|Shibuya| 
