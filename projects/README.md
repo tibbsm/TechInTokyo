@@ -53,3 +53,4 @@
 * Traversymedia on YouTube
 * YDKJS is fantastic
 * Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
+* http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
