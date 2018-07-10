@@ -35,9 +35,9 @@ Tech Companies in Tokyo, Japan
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
-|✓✓|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
+|★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 
 ### Jobs
 | |Company | Location | 
