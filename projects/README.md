@@ -41,3 +41,15 @@
 * [Project From Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 * [A Course in Machine Learning](http://ciml.info/?utm_source=hackernewsletter&utm_medium=email&utm_term=data)
+
+
+
+
+
+
+
+Andrew meads courses on udemy
+Net ninja on YouTube
+Traversymedia on YouTube
+YDKJS is fantastic
+Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
