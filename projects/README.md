@@ -48,8 +48,8 @@
 
 
 
-Andrew meads courses on udemy
-Net ninja on YouTube
-Traversymedia on YouTube
-YDKJS is fantastic
-Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
+* Andrew meads courses on udemy
+* Net ninja on YouTube
+* Traversymedia on YouTube
+* YDKJS is fantastic
+* Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
