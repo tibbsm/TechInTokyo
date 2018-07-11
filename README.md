@@ -38,7 +38,13 @@ Tech Companies in Tokyo, Japan
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
 | |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
-| |[Net Smile](https://netsmile.jp/en/)|Yushima| 
+| |[Net Smile](https://netsmile.jp/en/)|Yushima|
+| |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
+| |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
+| |[Abeja](https://abejainc.com/en/recruit/)|Shirokane|
+| |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
+| |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
+| |[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya |
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
