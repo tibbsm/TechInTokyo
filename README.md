@@ -35,6 +35,8 @@ Tech Companies in Tokyo, Japan
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro| 
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
+| |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
+| |[Net Smile](https://netsmile.jp/en/)|Yushima| 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
 |✓|[Mujin](https://mujin.co.jp/)|Oshiage| 
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
@@ -81,8 +83,7 @@ Tech Companies in Tokyo, Japan
 | |[Omise](https://omise.bamboohr.co.uk/jobs/)|Shibuya| 
 | |[Tokyo Weekendr](https://www.tokyoweekender.com/careers)|Jingumae| 
 | |[iSapace](https://jobs.lever.co/ispace-inc)|Roppongi| 
-| |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
-| |[Net Smile](https://netsmile.jp/en/)|Yushima| 
+
 
 ## Notes
 * Remote work options and pathways
