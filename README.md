@@ -26,6 +26,7 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)|Ebisu | 
+| |[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
 | |[Atilika](companies/Atilika)|Aoyama Itchome | 
 | |[Goodpatch](companies/Goodpatch)| Shibuya | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
@@ -83,7 +84,9 @@ Tech Companies in Tokyo, Japan
 | |[Trigence](https://www.trigence.com/about-us)|Akihabara| 
 | |[Omise](https://omise.bamboohr.co.uk/jobs/)|Shibuya| 
 | |[Tokyo Weekendr](https://www.tokyoweekender.com/careers)|Jingumae| 
-| |[iSapace](https://jobs.lever.co/ispace-inc)|Roppongi| 
+| |[iSpace](https://jobs.lever.co/ispace-inc)|Roppongi| 
+| |[Fusion Systems](https://www.hireplanner.com/en/frontend/companies/Fusion-Systems-Japan-Ltd/jobs)| Azabu| 
+
 
 
 ## Notes
