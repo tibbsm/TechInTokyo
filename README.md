@@ -25,6 +25,7 @@ Tech Companies in Tokyo, Japan
 ### Internships
 | |Company | Location | 
 |---|---|---|
+| |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)|Ebisu | 
 | |[Atilika](companies/Atilika)|Aoyama Itchome | 
 | |[Goodpatch](companies/Goodpatch)| Shibuya | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
