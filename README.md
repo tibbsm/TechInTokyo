@@ -6,7 +6,8 @@ Tech Companies in Tokyo, Japan
 * [Unconventional Software Dev](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
 * [Tech Job Hunting and Interviewing](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 * [From a Coding Bootcamp](http://blog.calebjay.com/2016/10/18/how-this-coding-bootcamp-grad-found-a-job/)
-* [Linkedin](http://blog.calebjay.com/2016/11/14/how-to-use-linkedin-as-a-coding-bootcamp-grad/)
+* [How to use Linkedin](http://blog.calebjay.com/2016/11/14/how-to-use-linkedin-as-a-coding-bootcamp-grad/)
+* [More LinkedIn...](https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
 
 
 ## Job Aggregate Sites
