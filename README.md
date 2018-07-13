@@ -56,6 +56,7 @@ Tech Companies in Tokyo, Japan
 ### Jobs
 | |Company | Location | 
 |---|---|---|
+| |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
 | |[Reallyenglish](companies/reallyenglish)| Kudanshita | 
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
