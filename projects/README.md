@@ -55,7 +55,7 @@
 * Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
 * http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
 
-
+# [Advice from Reddit](https://www.reddit.com/r/learnprogramming/comments/7srdqb/udemy_recommendations/)
 * The front end part of Colt Steel's Web Developer Boot camp .
 * Brad Schiff's Git a web developer job: mastering the modern work flow
 * Brad Traversy's Modern Javascript from the beginning (this one lines up very well with the order of Javascript projects from FCC and TOP).
