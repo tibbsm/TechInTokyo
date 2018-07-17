@@ -29,7 +29,7 @@
 
 
 ### Pluralsight
-* Pluralsight 10 day + student 30 day
+* [Pluralsight 10 day + student 3 month](https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~vscom~devessentials-hero~mt689&campaign=o~msft~vscom~devessentials-hero~mt689)
 
 ### Udemy
 * [Udemy Python Bootcamp](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content)
