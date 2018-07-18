@@ -1,6 +1,8 @@
 # TechInTokyo
 Tech Companies in Tokyo, Japan
 
+- Learn react, js, python, java
+
 ## Guides
 * [Jr Developer Job Guide](https://hackernoon.com/the-junior-engineers-job-search-strategy-guide-69c98e396483)
 * [Unconventional Software Dev](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
