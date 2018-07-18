@@ -56,10 +56,10 @@
 * Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
 * http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
 
-# [Advice from Reddit](https://www.reddit.com/r/learnprogramming/comments/7srdqb/udemy_recommendations/)
+## [Advice from Reddit](https://www.reddit.com/r/learnprogramming/comments/7srdqb/udemy_recommendations/)
 * The front end part of Colt Steel's Web Developer Boot camp .
 * Brad Schiff's Git a web developer job: mastering the modern work flow
-* Brad Traversy's Modern Javascript from the beginning (this one lines up very well with the order of Javascript projects from FCC and TOP).
+* Brad Traversy's Modern Javascript from the beginning (this one lines up very well with the order of Javascript projects from FreeCodeCamp and TheOdinProject).
 * Colt Steel's Advanced Web Developer Boot camp (the only reason to take this course is because there are very few other courses for d3 if you're pursuing the data visualization cert from FCC, otherwise there are better resources for learning every other topic covered in this course and it's the most skipple and least recommended of everything here. It does cover flexbox, which you should learn, but there are better resources for learning it like Wes Bos' What the Flexbox !? - which happens to be free) .
 * Andrew Mead's The Complete React web developers course, this is the best/easiest React course I've found, I really believe that this guy is a better instructor than Colt .
 * If you want to be a full stack developer with Node.js as your back end language (FCC's back end projects are in Node, TOP's back end projects are in Ruby, I chose Node so I can only recommend courses that cover Node ).
