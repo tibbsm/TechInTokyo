@@ -102,6 +102,7 @@ Tech Companies in Tokyo, Japan
 | |[Fusion Systems](https://www.hireplanner.com/en/frontend/companies/Fusion-Systems-Japan-Ltd/jobs)| Azabu| 
 | |[Telexistence](https://tx-inc.com/ja/career/)| Minami Aoyama|
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
+| |[Repro](https://repro.io/about/) | Yoyogi |
 
 
 
