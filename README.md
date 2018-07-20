@@ -104,6 +104,7 @@ Tech Companies in Tokyo, Japan
 | |[Telexistence](https://tx-inc.com/ja/career/)| Minami Aoyama|
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
 | |[Repro](https://repro.io/about/) | Yoyogi |
+| |[Treasure Data](www.treasuredata.com)| Marunouchi |
 
 
 
