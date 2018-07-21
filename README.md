@@ -2,6 +2,7 @@
 Tech Companies in Tokyo, Japan
 
 - Learn react, js, python, java
+- Start looking for WA/CA jobs
 
 ## Guides
 * [Jr Developer Job Guide](https://hackernoon.com/the-junior-engineers-job-search-strategy-guide-69c98e396483)
