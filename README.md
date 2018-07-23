@@ -109,6 +109,8 @@ Tech Companies in Tokyo, Japan
 | |[Treasure Data](www.treasuredata.com)| Marunouchi |
 
 
+## Remote Work
+* [Remote Habits](http://remotehabits.com/)
 
 ## Notes
 * Remote work options and pathways
