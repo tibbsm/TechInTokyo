@@ -12,6 +12,7 @@ Tech Companies in Tokyo, Japan
 * [From a Coding Bootcamp](http://blog.calebjay.com/2016/10/18/how-this-coding-bootcamp-grad-found-a-job/)
 * [How to use Linkedin](http://blog.calebjay.com/2016/11/14/how-to-use-linkedin-as-a-coding-bootcamp-grad/)
 * [More LinkedIn...](https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
+* [Asking for LI Reccomendations](https://blog.hubspot.com/sales/how-to-get-a-high-quality-linkedin-recommendation-email-template)
 
 
 ## Job Aggregate Sites
