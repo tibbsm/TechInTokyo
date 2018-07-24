@@ -108,6 +108,7 @@ Tech Companies in Tokyo, Japan
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
 | |[Repro](https://repro.io/about/) | Yoyogi |
 | |[Treasure Data](www.treasuredata.com)| Marunouchi |
+| |[Smart News](https://smartnews.workable.com/)
 
 
 ## Remote Work
