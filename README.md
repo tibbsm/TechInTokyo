@@ -1,7 +1,7 @@
 # TechInTokyo
 Tech Companies in Tokyo, Japan
 
-### Contents
+## Contents
 * [Guides](#guides)
 * [Job Aggregate Sites](#aggregators)
 * [Recruiters](#recruiters)
