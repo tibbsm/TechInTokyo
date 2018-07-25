@@ -1,11 +1,19 @@
 # TechInTokyo
 Tech Companies in Tokyo, Japan
 
+### Contents
+* [Guides](#guides)
+* [Job Aggregate Sites](#aggregators)
+* [Companies](#companies)
+  * [Internships](#internships)
+  * [Jobs](#jobs)
+
+
 - Learn react, js, python, java
 - Start looking for WA/CA jobs 
 - AW/J/IO/日/M
 
-## Guides
+## <a name="guides">Guides</a>
 * [Jr Developer Job Guide](https://hackernoon.com/the-junior-engineers-job-search-strategy-guide-69c98e396483)
 * [Unconventional Software Dev](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
 * [Tech Job Hunting and Interviewing](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
@@ -15,7 +23,7 @@ Tech Companies in Tokyo, Japan
 * [Asking for LI Reccomendations](https://blog.hubspot.com/sales/how-to-get-a-high-quality-linkedin-recommendation-email-template)
 
 
-## Job Aggregate Sites
+## <a name="aggregators">Job Aggregate Sites</a>
 * [AngelList](https://angel.co/jobs)
 * [Justa](https://justa.io/candidate/jobs)
 * [ActiveConnector](https://www.active-connector.com/)
@@ -28,9 +36,9 @@ Tech Companies in Tokyo, Japan
 * [Fidel Consulting](http://www.fidelconsulting.com/ns/)
 * [Talisman](https://talisman-corporation.com/)
 
-## Companies
+## <a name="companies">Companies</a>
 
-### Internships
+### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)|Ebisu | 
@@ -61,7 +69,7 @@ Tech Companies in Tokyo, Japan
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
 |★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 
-### Jobs
+### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
 | |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
