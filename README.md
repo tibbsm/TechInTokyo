@@ -37,8 +37,6 @@ Tech Companies in Tokyo, Japan
 
 ## <a name="companies">Companies</a>
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qwZOfcZgF35DCAVM1ad00q4D95oGIMd6" width="640" height="480"></iframe>
-
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
