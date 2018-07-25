@@ -12,11 +12,6 @@ Tech Companies in Tokyo, Japan
 * [Interviewing](#interview)
 * [Notes](#notes)
 
-
-- Learn react, js, python, java
-- Start looking for WA/CA jobs 
-- AW/J/IO/日/M
-
 ## <a name="guides">Guides</a>
 * [Jr Developer Job Guide](https://hackernoon.com/the-junior-engineers-job-search-strategy-guide-69c98e396483)
 * [Unconventional Software Dev](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
@@ -140,3 +135,6 @@ Tech Companies in Tokyo, Japan
 * What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
 * Comparisons to the States
 * https://github.com/btamada/jp-software-companies
+* Learn react, js, python, java
+* Start looking for WA/CA jobs 
+* AW/J/IO/日/M
