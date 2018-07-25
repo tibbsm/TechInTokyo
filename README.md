@@ -4,6 +4,7 @@ Tech Companies in Tokyo, Japan
 ### Contents
 * [Guides](#guides)
 * [Job Aggregate Sites](#aggregators)
+* [Reruiters](#recruiters)
 * [Companies](#companies)
   * [Internships](#internships)
   * [Jobs](#jobs)
@@ -31,7 +32,7 @@ Tech Companies in Tokyo, Japan
 * [Stack Overflow (Japan Jobs)](https://stackoverflow.com/jobs?sort=i&l=japan&d=20&u=Km)
 * [Tech Jobs in Tokyo](https://techjobs.tokyo/#/jobs/search)
 
-## Recruit
+## <a name="recruiters">Recruiter></a>
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 * [Fidel Consulting](http://www.fidelconsulting.com/ns/)
 * [Talisman](https://talisman-corporation.com/)
