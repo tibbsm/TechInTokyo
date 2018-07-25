@@ -125,6 +125,8 @@ Tech Companies in Tokyo, Japan
 
 ## <a name="remote">Remote Work</a>
 * [Remote Habits](http://remotehabits.com/)
+* [Companies that allow remote work in Japan](https://github.com/uiureo/remote-in-japan/blob/master/README.en.md)
+* [WeWorkRemotely](https://weworkremotely.com/) - more remote jobs
 
 ## <a name="interview">Interviewing</a>
 * Do all of CTCI first. It can be knocked out within a week or two if you go at it hard. Then hit up LC and start on easy's. Give yourself 45-60 minutes and if you can't solve it, look at the answer and go to another one. Once you're comfortable with easy's go up to medium. Try to solve two a day.
