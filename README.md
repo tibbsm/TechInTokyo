@@ -138,3 +138,4 @@ Tech Companies in Tokyo, Japan
 * Learn react, js, python, java
 * Start looking for WA/CA jobs 
 * AW/J/IO/日/M
+* [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
