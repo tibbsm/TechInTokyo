@@ -139,3 +139,4 @@ Tech Companies in Tokyo, Japan
 * Start looking for WA/CA jobs 
 * AW/J/IO/日/M
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
+* Be ab active part of the community
