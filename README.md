@@ -8,6 +8,9 @@ Tech Companies in Tokyo, Japan
 * [Companies](#companies)
   * [Internships](#internships)
   * [Jobs](#jobs)
+* [Remote Work](#remote)
+* [Interviewing](#interview)
+* [Notes](#notes)
 
 
 - Learn react, js, python, java
@@ -32,7 +35,7 @@ Tech Companies in Tokyo, Japan
 * [Stack Overflow (Japan Jobs)](https://stackoverflow.com/jobs?sort=i&l=japan&d=20&u=Km)
 * [Tech Jobs in Tokyo](https://techjobs.tokyo/#/jobs/search)
 
-## <a name="recruiters">Recruiter></a>
+## <a name="recruiters">Recruiters</a>
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 * [Fidel Consulting](http://www.fidelconsulting.com/ns/)
 * [Talisman](https://talisman-corporation.com/)
@@ -120,17 +123,18 @@ Tech Companies in Tokyo, Japan
 | |[Smart News](https://smartnews.workable.com/)
 
 
-## Remote Work
+## <a name="remote">Remote Work</a>
 * [Remote Habits](http://remotehabits.com/)
 
-## Notes
-* Remote work options and pathways
-* What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
-* Comparisons to the States
-* https://github.com/btamada/jp-software-companies
-## Interview Prep
+## <a name="interview">Interviewing</a>
 * Do all of CTCI first. It can be knocked out within a week or two if you go at it hard. Then hit up LC and start on easy's. Give yourself 45-60 minutes and if you can't solve it, look at the answer and go to another one. Once you're comfortable with easy's go up to medium. Try to solve two a day.
 * Focus on trees, linked lists, dynamic programming, arrays, and hash table questions
 * Also, there's a few algos you should definitely know like the palm of your hand. BFS, DFS, and the different kinds of level order traversals for trees come up over and over, for example.
 * Backtracking and dynamic programming are extremely common
 * Bit manipulation doesn't come up unless you're going for low level jobs, but when they do the answer probably involves XOR'ing
+
+## <a name="notes">Notes</a>
+* Remote work options and pathways
+* What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
+* Comparisons to the States
+* https://github.com/btamada/jp-software-companies
