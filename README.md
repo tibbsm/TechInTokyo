@@ -53,7 +53,6 @@ Tech Companies in Tokyo, Japan
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro| 
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
-| |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
 | |[Net Smile](https://netsmile.jp/en/)|Yushima|
 | |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
@@ -72,6 +71,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
 | |[Goodpatch](companies/Goodpatch)| Shibuya | 
 | |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
 | |[Reallyenglish](companies/reallyenglish)| Kudanshita | 
