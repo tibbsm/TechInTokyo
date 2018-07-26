@@ -60,8 +60,6 @@ Tech Companies in Tokyo, Japan
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
 | |[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya | 
 | |[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
-| |[Pivotal](https://pivotal.io/careers/openings) | Roppongi |
-| |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
 |✓|[Mujin](https://mujin.co.jp/)(Ghosted)|Oshiage| 
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
@@ -70,6 +68,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Pivotal](https://pivotal.io/careers/openings) | Roppongi |
 | |[Abeja](https://abejainc.com/en/recruit/)|Shirokane|
 | |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
 | |[Goodpatch](companies/Goodpatch)| Shibuya | 
@@ -118,6 +117,7 @@ Tech Companies in Tokyo, Japan
 | |[Repro](https://repro.io/about/) | Yoyogi |
 | |[Treasure Data](www.treasuredata.com)| Marunouchi |
 | |[Smart News](https://smartnews.workable.com/)
+| |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
 
 
 ## <a name="remote">Remote Work</a>
