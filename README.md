@@ -42,11 +42,11 @@ Tech Companies in Tokyo, Japan
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
+| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)|Ebisu | 
 | |[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
 | |[Atilika](companies/Atilika)|Aoyama Itchome | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
-| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
 | |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
