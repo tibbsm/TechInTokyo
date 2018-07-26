@@ -1,6 +1,8 @@
 # TechInTokyo
 Tech Companies in Tokyo, Japan
 
+* "Networking should be your number one resource" – Someone on OSU Slack group
+
 ## Contents
 * [Guides](#guides)
 * [Job Aggregate Sites](#aggregators)
