@@ -45,7 +45,6 @@ Tech Companies in Tokyo, Japan
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)|Ebisu | 
 | |[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
 | |[Atilika](companies/Atilika)|Aoyama Itchome | 
-| |[Goodpatch](companies/Goodpatch)| Shibuya | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
@@ -73,6 +72,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Goodpatch](companies/Goodpatch)| Shibuya | 
 | |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
 | |[Reallyenglish](companies/reallyenglish)| Kudanshita | 
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
