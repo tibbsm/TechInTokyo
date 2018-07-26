@@ -49,7 +49,6 @@ Tech Companies in Tokyo, Japan
 | |[TableCheck](companies/tablecheck)| Ginza | 
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
 | |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
-| |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro| 
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
@@ -60,6 +59,7 @@ Tech Companies in Tokyo, Japan
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
 | |[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya | 
 | |[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
+|✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
 |✓|[Mujin](https://mujin.co.jp/)(Ghosted)|Oshiage| 
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
