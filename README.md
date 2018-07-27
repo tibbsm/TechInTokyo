@@ -146,10 +146,6 @@ Tech Companies in Tokyo, Japan
 * https://github.com/btamada/jp-software-companies
 * Learn react, js, python, java
 * Start looking for WA/CA jobs 
-* AW/J/IO/日/M
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
 * Be ab active part of the community
-* 日本語 – 
-  * MIFA: **WED**(10:00-11:20 / 13:10-14:20 / 15:00-16:20) // **THU**(19:00–20:15)
-  * Nakameguro Square: **TUE**(19:00-20:30)
 * Literally copy stuff and then tweak it
