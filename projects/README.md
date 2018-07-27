@@ -1,4 +1,5 @@
 # Projects
+* Resignation
 
 ## Ideas
 * In vino veritas
