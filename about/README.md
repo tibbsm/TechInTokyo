@@ -9,7 +9,10 @@
 * [Website](https://tibbsm.github.io)
 
 Personal Skills
-* N2 Japanese...
+
+Language
+* English (Native)
+* Japanese (JLPT ~N3)
 
 Marketing/Social Media
 * Your personal brand
