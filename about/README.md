@@ -12,7 +12,7 @@ Personal Skills
 
 Language
 * English (Native)
-* [Japanese](/JP/) (JLPT ~N3)
+* [Japanese](./JP/) (JLPT ~N3)
 
 Marketing/Social Media
 * Your personal brand
