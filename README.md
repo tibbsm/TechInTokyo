@@ -152,3 +152,4 @@ Tech Companies in Tokyo, Japan
 * 日本語 – 
   * MIFA: **WED**(10:00-11:20 / 13:10-14:20 / 15:00-16:20) // **THU**(19:00–20:15)
   * Nakameguro Square: **TUE**(19:00-20:30)
+* Literally copy stuff and then tweak it
