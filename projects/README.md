@@ -1,5 +1,6 @@
 # Projects
 * Resignation: choosing and sacrifice
+* [What kind_of_cs_projects_impress?](https://www.reddit.com/r/cscareerquestions/comments/586lbg/recruiters_what_kind_of_cs_projects_impress/)
 
 ## Ideas
 * In vino veritas
