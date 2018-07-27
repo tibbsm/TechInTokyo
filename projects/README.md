@@ -1,5 +1,5 @@
 # Projects
-* Resignation
+* Resignation: choosing and sacrifice
 
 ## Ideas
 * In vino veritas
