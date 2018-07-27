@@ -2,6 +2,7 @@
 
 ## Ideas
 * In vino veritas
-* Local community
+* Local community 
+    * Jane Jacobs
 * JP
 * Learning/Mobile Learning
