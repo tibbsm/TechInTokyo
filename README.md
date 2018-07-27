@@ -65,7 +65,7 @@ Tech Companies in Tokyo, Japan
 |✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
 |✓|[Mujin](https://mujin.co.jp/)(Ghosted)|Oshiage| 
-|✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August)| Shibuya | 
+|✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August 22)| Shibuya | 
 |★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 
 ### <a name="job">Jobs</a>
