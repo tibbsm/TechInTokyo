@@ -62,6 +62,8 @@ Tech Companies in Tokyo, Japan
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
 | |[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya | 
 | |[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
+| | Google | |
+| | Softbank | |
 |✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
 |✓|[Mujin](https://mujin.co.jp/)(Ghosted)|Oshiage| 
@@ -119,7 +121,7 @@ Tech Companies in Tokyo, Japan
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
 | |[Repro](https://repro.io/about/) | Yoyogi |
 | |[Treasure Data](www.treasuredata.com)| Marunouchi |
-| |[Smart News](https://smartnews.workable.com/)
+| |[Smart News](https://smartnews.workable.com/) | |
 | |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
 
 
