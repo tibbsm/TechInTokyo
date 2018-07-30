@@ -159,6 +159,7 @@ Tech Companies in Tokyo, Japan
 * Comparisons to the States
 * https://github.com/btamada/jp-software-companies
 * Learn react, js, python, java
+* [Tokyo Neighborhoods](https://en.wikipedia.org/wiki/Category:Neighborhoods_of_Tokyo)
 * Start looking for WA/CA jobs 
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
 * Be ab active part of the community
