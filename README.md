@@ -45,7 +45,6 @@ Tech Companies in Tokyo, Japan
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
-| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)|Ebisu | 
 | |[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
 | |[Atilika](companies/Atilika)|Aoyama Itchome | 
@@ -73,6 +72,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Pivotal](https://pivotal.io/careers/openings) | Roppongi |
 | |[Abeja](https://abejainc.com/en/recruit/)|Shirokane|
 | |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
