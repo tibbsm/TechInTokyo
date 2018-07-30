@@ -57,7 +57,7 @@ Tech Companies in Tokyo, Japan
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
 | | Google | |
-| | Softbank Robotics | |
+| | [Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 | |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
 | |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
