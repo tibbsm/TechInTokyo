@@ -57,8 +57,6 @@ Tech Companies in Tokyo, Japan
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
 | |[Google](https://careers.google.com/)| World |
 | |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
-| |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
-| |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
@@ -78,6 +76,8 @@ Tech Companies in Tokyo, Japan
 |✓|[Mujin](https://mujin.co.jp/)(Ghosted)|Oshiage| 
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August 22)| Shibuya | 
 |★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
+| |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
+| |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
 
 ### <a name="job">Jobs</a>
 | |Company | Location | 
