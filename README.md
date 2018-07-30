@@ -66,6 +66,8 @@ Tech Companies in Tokyo, Japan
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
 | |[TableCheck](companies/tablecheck)| Ginza | 
 | |[Inter-tel](https://www.inter-tel.co.jp/company) | Ebisu |
+| |[LPixel](https://lpixel.net/en/careers/internship/) | Hongo |
+| |[Go Go Nihon](https://gogonihon.com/en/careers/internship/) | |
 | |[Yumemi](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Sangenjaya |
 |✓|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
 |✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
