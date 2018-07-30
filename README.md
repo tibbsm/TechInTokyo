@@ -132,8 +132,8 @@ Tech Companies in Tokyo, Japan
 | |[Treasure Data](www.treasuredata.com)| Marunouchi |
 | |[Smart News](https://smartnews.workable.com/) | |
 | |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
-| |[Tateru](https://corp.tateru.co/en/recruit) | Jingumawe |
-
+| |[Tateru](https://corp.tateru.co/en/recruit) | Jingumae |
+| |Amazon Robotics | Seattle |
 
 ## <a name="remote">Remote Work</a>
 * [Remote Habits](http://remotehabits.com/)
