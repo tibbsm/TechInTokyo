@@ -46,23 +46,23 @@ Tech Companies in Tokyo, Japan
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
-| |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)|Ebisu | 
+| |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
 | |[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
-| |[Yaraku](https://www.yaraku.com/careers/)|Shibuya|
+| |[Yaraku](https://www.yaraku.com/careers/)| Shibuya |
 | |[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya | 
-| |[Atilika](companies/Atilika)|Aoyama Itchome | 
-| |[TableCheck](companies/tablecheck)| Ginza | 
-| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)|Nihonbashi| 
-| |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro| 
-| |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu| 
-| |[Kayac](https://www.kayac.com/en/recruit/foreign)|Yokohama| 
-| |[Net Smile](https://netsmile.jp/en/)|Yushima|
-| |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
+| |[Atilika](companies/Atilika)| Aoyama Itchome | 
+| |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
+| |[Kayac](https://www.kayac.com/en/recruit/foreign)| Yokohama | 
+| |[Net Smile](https://netsmile.jp/en/)| Yushima ||
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
-| |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
 | | Google | |
-| | Softbank | |
+| | Softbank Robotics | |
+| |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
+| |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
+| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
+| |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
+| |[TableCheck](companies/tablecheck)| Ginza | 
 |✓|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
 |✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
