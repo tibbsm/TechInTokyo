@@ -48,9 +48,6 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
-| |[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
-| |[Yaraku](https://www.yaraku.com/careers/)| Shibuya |
-| |[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya | 
 | |[Atilika](companies/Atilika)| Aoyama Itchome | 
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)| Yokohama | 
@@ -72,6 +69,9 @@ Tech Companies in Tokyo, Japan
 | |[Yumemi](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Sangenjaya |
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
 | |[Widsley](https://widsley.com/intern/)| Shibuya |
+|✓|[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
+|✓|[Yaraku](https://www.yaraku.com/careers/)| Shibuya |
+|✓|[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya | 
 |✓|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
 |✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
