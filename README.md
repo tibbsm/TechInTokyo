@@ -54,6 +54,7 @@ Tech Companies in Tokyo, Japan
 | |[Atilika](companies/Atilika)| Aoyama Itchome | 
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)| Yokohama | 
+| |[Kabuku](https://www.kabuku.co.jp/en/jobs/intern-software-developer) | Shinjuku |
 | |[Net Smile](https://netsmile.jp/en/)| Yushima ||
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
