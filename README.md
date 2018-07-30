@@ -148,6 +148,7 @@ Tech Companies in Tokyo, Japan
 * What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
 * Comparisons to the States
 * https://github.com/btamada/jp-software-companies
+* https://gist.github.com/davidcalhoun/1116260
 * Learn react, js, python, java
 * Start looking for WA/CA jobs 
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
