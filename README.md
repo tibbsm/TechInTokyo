@@ -151,3 +151,4 @@ Tech Companies in Tokyo, Japan
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
 * Be ab active part of the community
 * Literally copy stuff and then tweak it
+* [Teach Yourself CS](https://teachyourselfcs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
