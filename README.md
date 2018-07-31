@@ -144,6 +144,7 @@ Tech Companies in Tokyo, Japan
 | |Amazon Robotics | Seattle |
 | |[Bitcoin](https://jobs.lever.co/bitcoin/4ba434cd-da26-4dd0-bc2a-9e1751b13e21) |  |
 | |[New Rope](http://www.newrope.biz/) | Shibuya |
+| |[Work Japan](https://www.workjapan.jp/) | Toranomon |
 
 ## <a name="remote">Remote Work</a>
 * [Remote Habits](http://remotehabits.com/)
