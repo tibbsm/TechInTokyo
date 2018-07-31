@@ -151,6 +151,7 @@ Tech Companies in Tokyo, Japan
 | |[Play Brain](http://playbrain.jp/careers/) | Shibuya |
 | |[Rurle](https://www.rurle.com/join-us) | |
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
+| |[Wanderlust](http://www.wanderlust.co.jp/recruit.html) | Nishi-Gotanda |
 ---
 
 ## <a name="remote">Remote Work</a>
