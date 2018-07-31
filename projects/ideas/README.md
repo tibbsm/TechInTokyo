@@ -25,6 +25,8 @@
 * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web)
 * [CS50 Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
+### Youtube
+* Berkley's Data Structures and Algorithms courses
 
 ### Pluralsight
 * [Pluralsight 10 day + student 3 month](https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~vscom~devessentials-hero~mt689&campaign=o~msft~vscom~devessentials-hero~mt689)
