@@ -75,8 +75,8 @@ Tech Companies in Tokyo, Japan
 |✓|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
 |✓|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
 |✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
-|✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
-|✓|[Mujin](https://mujin.co.jp/)(Ghosted)|Oshiage| 
+|✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
+|✓|[Mujin](https://mujin.co.jp/) (Ghosted)|Oshiage| 
 |✓|[HDE](https://www.hde.co.jp/en/) (Apply again from August 22)| Shibuya | 
 |★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 | |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
