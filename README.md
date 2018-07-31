@@ -33,7 +33,6 @@ Tech Companies in Tokyo, Japan
 ## <a name="aggregators">Job Aggregate Sites</a>
 * [AngelList](https://angel.co/jobs)
 * [Justa](https://justa.io/candidate/jobs)
-* [ActiveConnector](https://www.active-connector.com/)
 * [Tokyo Dev](https://www.tokyodev.com/jobs/)
 * [Stack Overflow (Japan Jobs)](https://stackoverflow.com/jobs?sort=i&l=japan&d=20&u=Km)
 * [Tech Jobs in Tokyo](https://techjobs.tokyo/#/jobs/search)
@@ -44,6 +43,7 @@ Tech Companies in Tokyo, Japan
 * [Fidel Consulting](http://www.fidelconsulting.com/ns/)
 * [Talisman](https://talisman-corporation.com/)
 * [Spotted Recruit](https://spottedrecruit.com/index.html)
+* [ActiveConnector](https://www.active-connector.com/)
 ---
 ## <a name="companies">Companies</a>
 
