@@ -1,3 +1,0 @@
-# Resources
-
-Storage for files 

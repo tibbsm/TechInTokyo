@@ -49,7 +49,7 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
-| |[Atilika](companies/Atilika)| Aoyama Itchome | 
+| |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)| Yokohama | 
 | |[Kabuku](https://www.kabuku.co.jp/en/jobs/intern-software-developer) | Shinjuku |
@@ -60,7 +60,7 @@ Tech Companies in Tokyo, Japan
 | |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
-| |[TableCheck](companies/tablecheck)| Ginza | 
+| |[TableCheck](https://corp.tablecheck.com/en/jobs/)| Ginza | 
 | |[Inter-tel](https://www.inter-tel.co.jp/company) | Ebisu |
 | |[LPixel](https://lpixel.net/en/careers/internship/) | Hongo |
 | |[Go Go Nihon](https://gogonihon.com/en/careers/internship/) | |
@@ -95,9 +95,9 @@ Tech Companies in Tokyo, Japan
 | |[Pivotal](https://pivotal.io/careers/openings) | Roppongi |
 | |[Abeja](https://abejainc.com/en/recruit/)|Shirokane|
 | |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
-| |[Goodpatch](companies/Goodpatch)| Shibuya | 
+| |[Goodpatch](https://goodpatch.com/)| Shibuya | 
 | |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
-| |[Reallyenglish](companies/reallyenglish)| Kudanshita | 
+| |[Reallyenglish](https://www.reallyenglish.com/)| Kudanshita | 
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
 | |[Borderless](https://angel.co/borderless/jobs)| ??? | 
