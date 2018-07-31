@@ -1,4 +1,7 @@
-# Projects
+# Project Ideas
+
+## Contents
+* Code
 
 ## Languages
 
