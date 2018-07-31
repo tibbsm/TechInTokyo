@@ -31,7 +31,7 @@
 
 ### Udemy
 * [Udemy Python Bootcamp](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content)
-* [Node with React Fullstack](https://www.udemy.com/node-with-react-fullstack-web-development/)
+* ~~[Node with React Fullstack](https://www.udemy.com/node-with-react-fullstack-web-development/)
 
 ### Github Resources
 * [Build Your Own [insert]](https://github.com/danistefanovic/build-your-own-x#build-your-own-game)
