@@ -4,6 +4,8 @@
 * [Resume](#resume)
 * [Projects](#projects)
 * [Personal Website](#website)
+* [Language](#lang)
+* [Marketing/Social](#market)
 
 ## <a name="resume">Resume</a>
 * [Resume Link](https://drive.google.com/open?id=1agFtRuqQ0rzu9lcVb6g6dwD8u-lZpo23)
@@ -15,15 +17,25 @@
 
 ## <a name="website">Personal Website</a>
 * [Website](https://tibbsm.github.io)
+    * About 
+    * Resume 
+    * Blog
+    * Projects
+    * Sketches
 
-Language
+## <a name="lang">Language</a>
 * English (Native)
 * [Japanese](./JP/) (JLPT ~N3)
 
-Marketing/Social Media
+## <a name="market">Marketing/Social Media</a>
 * Your personal brand
+
 * Linkedin
+
 * Facebook
+
 * Twitter
+
 * Youtube
+
 * Github
