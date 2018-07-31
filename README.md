@@ -152,6 +152,7 @@ Tech Companies in Tokyo, Japan
 | |[Rurle](https://www.rurle.com/join-us) | |
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
 | |[Wanderlust](http://www.wanderlust.co.jp/recruit.html) | Nishi-Gotanda |
+| |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
 ---
 
 ## <a name="remote">Remote Work</a>
