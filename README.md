@@ -72,7 +72,7 @@ Tech Companies in Tokyo, Japan
 | |[Widsley](https://widsley.com/intern/)| Shibuya |
 |✓|[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
 |✓|[Yaraku](https://www.yaraku.com/careers/)| Shibuya |
-|✓|[Workshift](https://workshift-sol.co.jp/en/recruit.html) | Shibuya | 
+|✓|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
 |✓|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
 |✓|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |✓|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)(No reply)| Shimokitazawa | 
