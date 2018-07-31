@@ -138,6 +138,7 @@ Tech Companies in Tokyo, Japan
 | |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
 | |[Tateru](https://corp.tateru.co/en/recruit) | Jingumae |
 | |Amazon Robotics | Seattle |
+| |[Bitcoin](https://jobs.lever.co/bitcoin/4ba434cd-da26-4dd0-bc2a-9e1751b13e21) |  |
 
 ## <a name="remote">Remote Work</a>
 * [Remote Habits](http://remotehabits.com/)
