@@ -155,6 +155,7 @@ Tech Companies in Tokyo, Japan
 | |[Wanderlust](http://www.wanderlust.co.jp/recruit.html) | Nishi-Gotanda |
 | |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
 | |[Eams Lab](http://elab.co.jp/company/about-us/) | Saitama |
+| |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
 ---
 
 ## <a name="remote">Remote Work</a>
