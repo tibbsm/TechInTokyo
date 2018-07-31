@@ -83,7 +83,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
-| |[LeapMind](https://leapmind.io/) | Shibuya |
+| |[LeapMind](https://leapmind.io/) (AngelList)| Shibuya |
 | |[OLM](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Setagaya |
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Pivotal](https://pivotal.io/careers/openings) | Roppongi |
