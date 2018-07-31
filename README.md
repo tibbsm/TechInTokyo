@@ -156,6 +156,7 @@ Tech Companies in Tokyo, Japan
 | |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
 | |[Eams Lab](http://elab.co.jp/company/about-us/) | Saitama |
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
+| |[EmbodyMe](https://company.embodyme.com/) | Takadanobaba |
 ---
 
 ## <a name="remote">Remote Work</a>
