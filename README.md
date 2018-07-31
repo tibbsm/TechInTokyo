@@ -2,6 +2,7 @@
 Tech Companies in Tokyo, Japan
 
 * "Networking should be your number one resource" – Someone on OSU Slack group
+* "Emotional buyers screw themselves over" – Someone on OSU Slack
 * Python "For image processing check out Pillow. For web scraping check out BeautifulSoup. For machine learning and scientific computing, check out scipy and matplotlib, or just get Anaconda."
 ## Contents
 * [Guides](#guides)
