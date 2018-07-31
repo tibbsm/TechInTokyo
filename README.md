@@ -3,7 +3,7 @@ Tech Companies in Tokyo, Japan
 
 * "Networking should be your number one resource" – Someone on OSU Slack group
 * "Emotional buyers screw themselves over" – Someone on OSU Slack
-* Python "For image processing check out Pillow. For web scraping check out BeautifulSoup. For machine learning and scientific computing, check out scipy and matplotlib, or just get Anaconda."
+
 ## Contents
 * [Guides](#guides)
 * [Networking](#network)
@@ -11,6 +11,7 @@ Tech Companies in Tokyo, Japan
 * [Recruiters](#recruiters)
 * [Companies](#companies)
   * [Internships](#internships)
+  * [Entry-Level Jobs](#entry)
   * [Jobs](#jobs)
 * [Remote Work](#remote)
 * [Interviewing](#interview)
@@ -179,3 +180,4 @@ Tech Companies in Tokyo, Japan
 * Be ab active part of the community
 * Literally copy stuff and then tweak it
 * [Teach Yourself CS](https://teachyourselfcs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
+* Python "For image processing check out Pillow. For web scraping check out BeautifulSoup. For machine learning and scientific computing, check out scipy and matplotlib, or just get Anaconda."
