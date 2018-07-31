@@ -26,9 +26,9 @@
 ## <a name="lang">Language</a>
 * English (Native)
 * [Japanese](./JP/) (JLPT ~N3)
-      * JLPT Testing Dates – July/December
-      * MIFA: **WED**(10:00-11:20 / 13:10-14:20 / 15:00-16:20) // **THU**(19:00–20:15)
-      * Nakameguro Square: **TUE**(19:00-20:30)
+  * JLPT Testing Dates – July/December
+  * MIFA: **WED**(10:00-11:20 / 13:10-14:20 / 15:00-16:20) // **THU**(19:00–20:15) . 
+  * Nakameguro Square: **TUE**(19:00-20:30)
 
 ## <a name="market">Marketing/Social Media</a>
 * Your personal brand
