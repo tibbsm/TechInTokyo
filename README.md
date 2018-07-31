@@ -43,6 +43,7 @@ Tech Companies in Tokyo, Japan
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 * [Fidel Consulting](http://www.fidelconsulting.com/ns/)
 * [Talisman](https://talisman-corporation.com/)
+* [Spotted Recruit](https://spottedrecruit.com/index.html)
 ---
 ## <a name="companies">Companies</a>
 
