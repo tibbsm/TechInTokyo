@@ -43,21 +43,19 @@
 
 ### Other
 * Andrew meads courses on udemy
+* [Wes Bos' What the Flexbox!? (free)](https://flexbox.io/)
+* [Andrew Mead's The Complete React web developers]()
+* [Andrew Mead's The Complete Node developers course]()
+* [Stephan Grider's Mongo course]()
+* ~~Stephan Grider's Node with React:~~
 * Net ninja on YouTube
 * Traversymedia on YouTube
 * YDKJS is fantastic
 * Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
 * http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
+* TOP(Ruby)/FCC(Node)
 
 ## [Advice from Reddit](https://www.reddit.com/r/learnprogramming/comments/7srdqb/udemy_recommendations/)
-* Wes Bos' What the Flexbox!? (free)
-* Andrew Mead's The Complete React web developers course, this is the best/easiest React course I've found, I really believe that this guy is a better instructor than Colt .
-* If you want to be a full stack developer with Node.js as your back end language (FCC's back end projects are in Node, TOP's back end projects are in Ruby, I chose Node so I can only recommend courses that cover Node ).
-* Andrew Mead's The Complete Node developers course, I really like his teaching style and it's great that he teaches testing .
-* Stephan Grider's Mongo course, I also really like this guy's teaching style and this course was fantastic .
-* ~~Stephan Grider's Node with React: fullstack development course , this one ties everything together and does a great job of explaining how the front and back end's relate and differ .~~
-
-
 * check out some web designs from www.dribbble.com
 * full size landing page -> work your way to the full page that is reponsice and functional (with backend)
 * implement with React and JSX
