@@ -146,7 +146,8 @@ Tech Companies in Tokyo, Japan
 | |[New Rope](http://www.newrope.biz/) | Shibuya |
 | |[Work Japan](https://www.workjapan.jp/) | Toranomon |
 | |[Play Brain](http://playbrain.jp/careers/) | Shibuya |
-| |[]() | |
+| |[Rurle](https://www.rurle.com/join-us) | |
+| |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
 
 ## <a name="remote">Remote Work</a>
 * [Remote Habits](http://remotehabits.com/)
