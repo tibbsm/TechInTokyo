@@ -29,6 +29,8 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="network">Networking</a>
 * [DoorKeeper](https://www.doorkeeper.jp/?locale=en)
+* meetup
+* https://connpass.com/
 ---
 ## <a name="aggregators">Job Aggregate Sites</a>
 * [AngelList](https://angel.co/jobs)
