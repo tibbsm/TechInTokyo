@@ -58,7 +58,7 @@
 * If you want to be a full stack developer with Node.js as your back end language (FCC's back end projects are in Node, TOP's back end projects are in Ruby, I chose Node so I can only recommend courses that cover Node ).
 * Andrew Mead's The Complete Node developers course, I really like his teaching style and it's great that he teaches testing .
 * Stephan Grider's Mongo course, I also really like this guy's teaching style and this course was fantastic .
-* Stephan Grider's Node with React: fullstack development course , this one ties everything together and does a great job of explaining how the front and back end's relate and differ .
+* ~~Stephan Grider's Node with React: fullstack development course , this one ties everything together and does a great job of explaining how the front and back end's relate and differ .
 
 * Altogether this is over 160 hours of instruction, but you come out of it knowing how to create, test and deploy React, Mongo and Node and with a decent portfolio and a little brushing up on algorithms you'd be ready to start seeking a junior fullstack/javascript developer job for $70 of course materials vs ~$10,000 for a boot camp or ~$80,000+ for a degree .
 
