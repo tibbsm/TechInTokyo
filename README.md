@@ -17,7 +17,7 @@ Tech Companies in Tokyo, Japan
 * [Interviewing](#interview)
 * [Notes](#notes)
 * [Map](https://drive.google.com/open?id=1qwZOfcZgF35DCAVM1ad00q4D95oGIMd6&usp=sharing)
-
+---
 ## <a name="guides">Guides</a>
 * [Jr Developer Job Guide](https://hackernoon.com/the-junior-engineers-job-search-strategy-guide-69c98e396483)
 * [Unconventional Software Dev](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
@@ -26,10 +26,10 @@ Tech Companies in Tokyo, Japan
 * [How to use Linkedin](http://blog.calebjay.com/2016/11/14/how-to-use-linkedin-as-a-coding-bootcamp-grad/)
 * [More LinkedIn...](https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
 * [Asking for LI Reccomendations](https://blog.hubspot.com/sales/how-to-get-a-high-quality-linkedin-recommendation-email-template)
-
+---
 ## <a name="network">Networking</a>
 * [DoorKeeper](https://www.doorkeeper.jp/?locale=en)
-
+---
 ## <a name="aggregators">Job Aggregate Sites</a>
 * [AngelList](https://angel.co/jobs)
 * [Justa](https://justa.io/candidate/jobs)
@@ -38,12 +38,12 @@ Tech Companies in Tokyo, Japan
 * [Stack Overflow (Japan Jobs)](https://stackoverflow.com/jobs?sort=i&l=japan&d=20&u=Km)
 * [Tech Jobs in Tokyo](https://techjobs.tokyo/#/jobs/search)
 * [Craigslist](https://tokyo.craigslist.jp/d/software-qa-dba-etc/search/sof?lang=en&cc=us)
-
+---
 ## <a name="recruiters">Recruiters</a>
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
 * [Fidel Consulting](http://www.fidelconsulting.com/ns/)
 * [Talisman](https://talisman-corporation.com/)
-
+---
 ## <a name="companies">Companies</a>
 
 ### <a name="Internships">Internships</a>
@@ -151,12 +151,13 @@ Tech Companies in Tokyo, Japan
 | |[Play Brain](http://playbrain.jp/careers/) | Shibuya |
 | |[Rurle](https://www.rurle.com/join-us) | |
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
+---
 
 ## <a name="remote">Remote Work</a>
 * [Remote Habits](http://remotehabits.com/)
 * [Companies that allow remote work in Japan](https://github.com/uiureo/remote-in-japan/blob/master/README.en.md)
 * [WeWorkRemotely](https://weworkremotely.com/) - more remote jobs
-
+---
 ## <a name="interview">Interviewing</a>
 * [LeetCode](https://leetcode.com/) 
 
@@ -167,7 +168,7 @@ Tech Companies in Tokyo, Japan
   * Also, there's a few algos you should definitely know like the palm of your hand. BFS, DFS, and the different kinds of level order traversals for trees come up over and over, for example.
   * Backtracking and dynamic programming are extremely common
   * Bit manipulation doesn't come up unless you're going for low level jobs, but when they do the answer probably involves XOR'ing
-
+---
 ## <a name="notes">Notes</a>
 * Remote work options and pathways
 * What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
