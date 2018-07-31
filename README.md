@@ -87,6 +87,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[LeapMind](https://leapmind.io/) (AngelList)| Shibuya |
 | |[OLM](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Setagaya |
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
