@@ -81,6 +81,7 @@ Tech Companies in Tokyo, Japan
 | |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
 
 ### <a name="entry">Entry-Level Jobs</a>
+| |Company | Location | 
 |---|---|---|
 | |[Borderless](https://angel.co/borderless/jobs)| ??? | 
 
