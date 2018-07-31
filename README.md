@@ -154,6 +154,7 @@ Tech Companies in Tokyo, Japan
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
 | |[Wanderlust](http://www.wanderlust.co.jp/recruit.html) | Nishi-Gotanda |
 | |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
+| |[Eams Lab](http://elab.co.jp/company/about-us/) | Saitama |
 ---
 
 ## <a name="remote">Remote Work</a>
