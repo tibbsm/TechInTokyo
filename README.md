@@ -53,6 +53,7 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
+| |[Continental](http://www.continental-jobs.com/index.php?ac=jobad&id=746885)| Yokohama |
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)| Yokohama | 
 | |[Kabuku](https://www.kabuku.co.jp/en/jobs/intern-software-developer) | Shinjuku |
@@ -147,7 +148,7 @@ Tech Companies in Tokyo, Japan
 | |[Smart News](https://smartnews.workable.com/) | Jingumae |
 | |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
 | |[Tateru](https://corp.tateru.co/en/recruit) | Jingumae |
-| |Amazon Robotics | Seattle |
+| | Amazon Robotics | Seattle |
 | |[Bitcoin](https://jobs.lever.co/bitcoin/4ba434cd-da26-4dd0-bc2a-9e1751b13e21) | ? |
 | |[New Rope](http://www.newrope.biz/) | Shibuya |
 | |[Work Japan](https://www.workjapan.jp/) | Toranomon |
