@@ -49,6 +49,8 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
+* Tamecco - http://www.tamecco.jp/en/company/jobs
+
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
