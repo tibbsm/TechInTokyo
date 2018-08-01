@@ -59,14 +59,14 @@ Tech Companies in Tokyo, Japan
 | |[Net Smile](https://netsmile.jp/en/)| Yushima ||
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
-| |[Google](https://careers.google.com/)| World |
+| |[Google](https://careers.google.com/)| Roppongi |
 | |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
 | |[TableCheck](https://corp.tablecheck.com/en/jobs/)| Ginza | 
 | |[Inter-tel](https://www.inter-tel.co.jp/company) | Ebisu |
 | |[LPixel](https://lpixel.net/en/careers/internship/) | Hongo |
-| |[Go Go Nihon](https://gogonihon.com/en/careers/internship/) | |
+| |[Go Go Nihon](https://gogonihon.com/en/careers/internship/) | Shinjuku |
 | |[Monopo](https://monopo.co.jp/team/) | Jingumae |
 | |[Yumemi](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Sangenjaya |
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
@@ -87,7 +87,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="entry">Entry-Level Jobs</a>
 | |Company | Location | 
 |---|---|---|
-| |[Borderless](https://angel.co/borderless/jobs)| ??? | 
+| |[Borderless](https://angel.co/borderless/jobs)| ? | 
 
 ### <a name="job">Jobs</a>
 | |Company | Location | 
@@ -104,7 +104,7 @@ Tech Companies in Tokyo, Japan
 | |[Reallyenglish](https://www.reallyenglish.com/)| Kudanshita | 
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
-| |[Borderless](https://angel.co/borderless/jobs)| ??? | 
+| |[Borderless](https://angel.co/borderless/jobs)| ? | 
 | |[Styler Inc](https://styler.link/)| Shibuya | 
 | |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda | 
 | |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita| 
@@ -144,15 +144,15 @@ Tech Companies in Tokyo, Japan
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
 | |[Repro](https://repro.io/about/) | Yoyogi |
 | |[Treasure Data](www.treasuredata.com)| Marunouchi |
-| |[Smart News](https://smartnews.workable.com/) | |
+| |[Smart News](https://smartnews.workable.com/) | Jingumae |
 | |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
 | |[Tateru](https://corp.tateru.co/en/recruit) | Jingumae |
 | |Amazon Robotics | Seattle |
-| |[Bitcoin](https://jobs.lever.co/bitcoin/4ba434cd-da26-4dd0-bc2a-9e1751b13e21) |  |
+| |[Bitcoin](https://jobs.lever.co/bitcoin/4ba434cd-da26-4dd0-bc2a-9e1751b13e21) | ? |
 | |[New Rope](http://www.newrope.biz/) | Shibuya |
 | |[Work Japan](https://www.workjapan.jp/) | Toranomon |
 | |[Play Brain](http://playbrain.jp/careers/) | Shibuya |
-| |[Rurle](https://www.rurle.com/join-us) | |
+| |[Rurle](https://www.rurle.com/join-us) | ? |
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
 | |[Wanderlust](http://www.wanderlust.co.jp/recruit.html) | Nishi-Gotanda |
 | |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
