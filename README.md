@@ -49,7 +49,13 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* Tamecco - http://www.tamecco.jp/en/company/jobs
+* Tamecco - http://www.tamecco.jp/en/company/jobs 
+* https://www.cygames.co.jp/en/
+* https://prodigy-inc.co.jp/en/
+* http://www.klab.com/jp/
+* https://monoxer.com/
+* https://preferred.jp/en/
+* 
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
