@@ -6,7 +6,7 @@
 ## Languages
 
 ### Java
-* [Twitter Bot](https://github.com/tibbsm/JavaTwitterBot)
+* [X][Twitter Bot](https://github.com/tibbsm/JavaTwitterBot)
 * [ ] [Java: How to Build an Android Reddit App](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y)
 * [ ] [Java: Crafting interpreters: A handbook for making programming languages](http://www.craftinginterpreters.com/)
 * [ ] [Java: Creating JVM Language](http://jakubdziworski.github.io/categories.html#Enkel-ref)
@@ -14,7 +14,7 @@
 * [ ] [Java: Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 
 ### Kotlin
-* [ ] [Android Reddit App (Kotlin)](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+* [x] [Android Reddit App (Kotlin)](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 ***
 
 ## Resources
