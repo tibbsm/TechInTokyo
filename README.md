@@ -55,7 +55,11 @@ Tech Companies in Tokyo, Japan
 * http://www.klab.com/jp/
 * https://monoxer.com/
 * https://preferred.jp/en/
-* 
+* https://www.invast.jp/company/career/
+* http://www.sbibits.com/
+* https://corp.gree.net/jp/ja/recruit/
+*
+*
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
