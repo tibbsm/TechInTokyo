@@ -46,7 +46,9 @@ Tech Companies in Tokyo, Japan
 * [Talisman](https://talisman-corporation.com/)
 * [Spotted Recruit](https://spottedrecruit.com/index.html)
 * [ActiveConnector](https://www.active-connector.com/)
-* https://www.4mcareer.com/home
+* [4M Career](https://www.4mcareer.com/home)
+* [Robert Half](https://www.roberthalf.jp/en)
+* [en World](https://www.enworld.com/en)
 ---
 ## <a name="companies">Companies</a>
 
@@ -67,6 +69,16 @@ Tech Companies in Tokyo, Japan
 * https://corp.retty.me/recruit/newgrads/
 * https://www.teradata.com/
 * https://www.mti.co.jp/?page_id=12
+* https://couger.co.jp/
+* https://engineering.paidy.com/
+* https://cogniance.com/work/
+* https://www.springasia.com/japan
+* https://www.bitcraft.co.jp/en/career.php
+* https://www.capgemini.com/careers/
+* https://jda.com/careers
+* https://www.siemensgamesa.com/en-int/career
+* https://www.plusone.space/careers
+* https://www.klook.com/career/
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
