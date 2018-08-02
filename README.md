@@ -46,6 +46,7 @@ Tech Companies in Tokyo, Japan
 * [Talisman](https://talisman-corporation.com/)
 * [Spotted Recruit](https://spottedrecruit.com/index.html)
 * [ActiveConnector](https://www.active-connector.com/)
+* https://www.4mcareer.com/home
 ---
 ## <a name="companies">Companies</a>
 
@@ -58,8 +59,14 @@ Tech Companies in Tokyo, Japan
 * https://www.invast.jp/company/career/
 * http://www.sbibits.com/
 * https://corp.gree.net/jp/ja/recruit/
-*
-*
+* https://fidessa.csod.com/ats/careersite/search.aspx?site=7&c=fidessa
+* https://www.worksap.com/
+* https://www.oracle.com/corporate/careers/index.html
+* https://we.dji.com/jobs_en.html?site=brandsite&from=footer#
+* https://www.sony.net/SonyInfo/Careers/
+* https://corp.retty.me/recruit/newgrads/
+* https://www.teradata.com/
+* https://www.mti.co.jp/?page_id=12
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
