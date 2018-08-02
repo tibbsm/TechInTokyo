@@ -35,6 +35,9 @@
 * [Udemy Python Bootcamp](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content)
 * ~~[Node with React Fullstack](https://www.udemy.com/node-with-react-fullstack-web-development/)~~
 
+### Udacity
+* [Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851) 
+
 ### Github Resources
 * [Build Your Own [insert]](https://github.com/danistefanovic/build-your-own-x#build-your-own-game)
 * [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
@@ -56,6 +59,8 @@
 * Digital ocean tutorials for deployment(Try googling deploy node.js server digital ocean)
 * http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
 * TOP(Ruby)/FCC(Node)
+* Android N Developer Udemy
+* Brandon Gogetap: Advanced Android - Architecture with Dagger 2 and more
 
 ## [Advice from Reddit](https://www.reddit.com/r/learnprogramming/comments/7srdqb/udemy_recommendations/)
 * check out some web designs from www.dribbble.com
