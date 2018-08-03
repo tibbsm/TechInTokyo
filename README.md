@@ -96,11 +96,13 @@ https://jobs.intel.com/ShowJob/Id/1665327/Intel-Program-for-eSports-(Intern-posi
 HP/MICROSOFT...
 * http://www.s-medicom.co.jp/recruit_en.html
 * http://www.ousia.jp/ja/jobs
+* http://psygig.com/index.html
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
+| |[ZMP](https://www.zmp.co.jp/en/recruit/internship) |  |
 | |[Mercari](https://mercari.workable.com/j/1DB1AAD01E) | Roppongi |
 | |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
 | |[Continental](http://www.continental-jobs.com/index.php?ac=jobad&id=746885)| Yokohama |
