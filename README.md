@@ -83,6 +83,11 @@ Tech Companies in Tokyo, Japan
 * https://company.finc.com/recruit
 * https://metaps.com/careers/
 * http://www.advantage24.co.jp/corporate?locale=jp
+* https://drivemode.com/careers/
+* https://www.fout.co.jp/company/
+* https://corporate.coincheck.com/recruit/
+* https://about.crunchbase.com/about-us/careers/
+* http://translimit.co.jp/recruit/
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
