@@ -88,6 +88,7 @@ Tech Companies in Tokyo, Japan
 * https://corporate.coincheck.com/recruit/
 * https://about.crunchbase.com/about-us/careers/
 * http://translimit.co.jp/recruit/
+https://origami.design/
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
