@@ -79,6 +79,7 @@ Tech Companies in Tokyo, Japan
 * https://www.siemensgamesa.com/en-int/career
 * https://www.plusone.space/careers
 * https://www.klook.com/career/
+* https://www.splyza.com/en/recruit/
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
