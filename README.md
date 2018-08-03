@@ -89,6 +89,7 @@ Tech Companies in Tokyo, Japan
 * https://about.crunchbase.com/about-us/careers/
 * http://translimit.co.jp/recruit/
 https://origami.design/
+http://gungnir.xyz/#page-top
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
