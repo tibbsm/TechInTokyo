@@ -81,6 +81,8 @@ Tech Companies in Tokyo, Japan
 * https://www.klook.com/career/
 * https://www.splyza.com/en/recruit/
 * https://company.finc.com/recruit
+* https://metaps.com/careers/
+* http://www.advantage24.co.jp/corporate?locale=jp
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
