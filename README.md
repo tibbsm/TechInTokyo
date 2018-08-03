@@ -80,6 +80,7 @@ Tech Companies in Tokyo, Japan
 * https://www.plusone.space/careers
 * https://www.klook.com/career/
 * https://www.splyza.com/en/recruit/
+* https://company.finc.com/recruit
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
