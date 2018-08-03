@@ -95,6 +95,7 @@ https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Eng
 https://jobs.intel.com/ShowJob/Id/1665327/Intel-Program-for-eSports-(Intern-position)/
 HP/MICROSOFT...
 * http://www.s-medicom.co.jp/recruit_en.html
+* http://www.ousia.jp/ja/jobs
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
