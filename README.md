@@ -100,6 +100,7 @@ HP/MICROSOFT...
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
+| |[Mercari](https://mercari.workable.com/j/1DB1AAD01E) | Roppongi |
 | |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
 | |[Continental](http://www.continental-jobs.com/index.php?ac=jobad&id=746885)| Yokohama |
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
