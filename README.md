@@ -90,6 +90,10 @@ Tech Companies in Tokyo, Japan
 * http://translimit.co.jp/recruit/
 https://origami.design/
 http://gungnir.xyz/#page-top
+https://jobs.intel.com/ListJobs/All/Search/country/jp/city/tokyo/state/srw/
+https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/
+https://jobs.intel.com/ShowJob/Id/1665327/Intel-Program-for-eSports-(Intern-position)/
+HP/MICROSOFT...
 
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
