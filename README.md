@@ -52,16 +52,8 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-
-* https://drivemode.com/careers/
-* https://www.fout.co.jp/company/
-* https://corporate.coincheck.com/recruit/
-* https://about.crunchbase.com/about-us/careers/
-* http://translimit.co.jp/recruit/
-https://origami.design/
-http://gungnir.xyz/#page-top
 https://jobs.intel.com/ListJobs/All/Search/country/jp/city/tokyo/state/srw/
-https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/
+
 HP/MICROSOFT...
 * http://www.s-medicom.co.jp/recruit_en.html
 * http://www.ousia.jp/ja/jobs
@@ -72,7 +64,7 @@ HP/MICROSOFT...
 | |Company | Location | 
 |---|---|---|
 | |[Google](https://careers.google.com/jobs#!t=jo&jid=/company/software-engineering-intern-bs-winter-76-9th-ave-new-york-ny-10011-usa-4071760056) | Multiple Locations |
-| |[Intel]() | |
+| |[Intel](https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/) | Shijuku |
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) |  |
 | |[Mercari](https://mercari.workable.com/j/1DB1AAD01E) | Roppongi |
@@ -199,6 +191,8 @@ HP/MICROSOFT...
 | |[Paidy](https://engineering.paidy.com/) | Roppongi |
 | |[bitcraft](https://www.bitcraft.co.jp/en/career.php) | Shibuya |
 | |[Drivemode](https://drivemode.com/careers/)| Shinjuku |
+| |[Coincheck](https://corporate.coincheck.com/recruit/) | Shibuya |
+| |[Freakout](https://www.fout.co.jp/recruit/) | Roppongi |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
