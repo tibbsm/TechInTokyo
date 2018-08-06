@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://www.worksap.com/
 * https://www.oracle.com/corporate/careers/index.html
 * https://we.dji.com/jobs_en.html?site=brandsite&from=footer#
 * https://www.sony.net/SonyInfo/Careers/
