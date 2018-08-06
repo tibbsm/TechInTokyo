@@ -214,7 +214,7 @@ HP/MICROSOFT...
 | |[CyGames](https://www.cygames.co.jp/en/) | Shibuya |
 | |[KLab](http://www.klab.com/jp/) | Roppongi |
 | |[Monoxer](http://corp.monoxer.com/recruit.html)| Shibuya |
-| |[Preferred Infrastructure](https://preferred.jp/en/) | Otemachi |
+| |[Preferred Infrastructure](https://www.preferred-networks.jp/en/jobs) | Otemachi |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
