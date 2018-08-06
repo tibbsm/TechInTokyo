@@ -248,3 +248,4 @@ HP/MICROSOFT...
 * Literally copy stuff and then tweak it
 * [Teach Yourself CS](https://teachyourselfcs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
 * Python "For image processing check out Pillow. For web scraping check out BeautifulSoup. For machine learning and scientific computing, check out scipy and matplotlib, or just get Anaconda."
+* An app that allows not for productivity, but filters out distractions. Potentially a one task application/device. Purposefully set up new ritual/routines/habits with this thing. (Mono Tsu) Promotes a digital to analog to digital flow. Emphsizes making things. Working iteratively. Open to serendipity. Emphasizes artisnal processes. Community. 
