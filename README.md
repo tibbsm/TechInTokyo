@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://we.dji.com/jobs_en.html?site=brandsite&from=footer#
 * https://www.sony.net/SonyInfo/Careers/
 * https://corp.retty.me/recruit/newgrads/
 * https://www.teradata.com/
@@ -211,6 +210,7 @@ HP/MICROSOFT...
 | |[Invast](https://www.invast.jp/company_en/career/) | Nishi-Shimbashi |
 | |[Works Applications](https://career.worksap.com/)| Akasaka |
 | |[Oracle](https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en)| Gaienmae |
+| |[DJI](https://we.dji.com/jobs_en.html?site=brandsite&from=footer#) | Konan|
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
