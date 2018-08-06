@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://www.sony.net/SonyInfo/Careers/
 * https://corp.retty.me/recruit/newgrads/
 * https://www.teradata.com/
 * https://www.mti.co.jp/?page_id=12
