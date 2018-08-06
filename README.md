@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* Tamecco - http://www.tamecco.jp/en/company/jobs 
 * https://www.cygames.co.jp/en/
 * https://prodigy-inc.co.jp/en/
 * http://www.klab.com/jp/
@@ -148,6 +147,7 @@ HP/MICROSOFT...
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Tamecco](http://www.tamecco.jp/en/company/jobs) | Nishi-Azabu |
 | |[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[LeapMind](https://leapmind.io/) (AngelList)| Shibuya |
 | |[OLM](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Setagaya |
