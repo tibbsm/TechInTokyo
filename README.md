@@ -49,6 +49,7 @@ Tech Companies in Tokyo, Japan
 * [4M Career](https://www.4mcareer.com/home)
 * [Robert Half](https://www.roberthalf.jp/en)
 * [en World](https://www.enworld.com/en)
+* [Wahl and Case](https://www.wahlandcase.com/)
 ---
 ## <a name="companies">Companies</a>
 
