@@ -52,9 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://engineering.paidy.com/
-* https://www.bitcraft.co.jp/en/career.php
-* https://www.capgemini.com/careers/
 * https://jda.com/careers
 * https://www.siemensgamesa.com/en-int/career
 * https://www.plusone.space/careers
