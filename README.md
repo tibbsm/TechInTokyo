@@ -186,6 +186,7 @@ Tech Companies in Tokyo, Japan
 | |[Coincheck](https://corporate.coincheck.com/recruit/) | Shibuya |
 | |[Freakout](https://www.fout.co.jp/recruit/) | Roppongi |
 | |[Psygig](http://psygig.com/index.html#team)| Shibuya |
+| |[Studio Ousia](http://www.ousia.jp/ja/company)| Otemachi |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
