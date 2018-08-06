@@ -70,7 +70,6 @@ Tech Companies in Tokyo, Japan
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
 | |[Google](https://careers.google.com/)| Roppongi |
-| |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
 | |[TableCheck](https://corp.tablecheck.com/en/jobs/)| Ginza | 
@@ -81,6 +80,7 @@ Tech Companies in Tokyo, Japan
 | |[Yumemi](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Sangenjaya |
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
 | |[Widsley](https://widsley.com/intern/)| Shibuya |
+| |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 |✓|[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
 |✓|[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
 |✓|[Yaraku](https://www.yaraku.com/careers/)| Shibuya |
