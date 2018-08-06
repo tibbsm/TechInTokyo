@@ -3,6 +3,7 @@ Tech Companies in Tokyo, Japan
 
 * "Networking should be your number one resource" – Someone on OSU Slack group
 * "Emotional buyers screw themselves over" – Someone on OSU Slack 
+* asd
 
 ## Contents
 * [Guides](#guides)
