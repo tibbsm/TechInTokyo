@@ -106,6 +106,7 @@ HP/MICROSOFT...
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) |  |
 | |[Mercari](https://mercari.workable.com/j/1DB1AAD01E) | Roppongi |
+| |[Merpay](https://open.talentio.com/1/c/mercari/requisitions/detail/6794) | Roppongi |
 | |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
 | |[Continental](http://www.continental-jobs.com/index.php?ac=jobad&id=746885)| Yokohama |
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
