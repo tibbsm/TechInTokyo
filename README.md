@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://couger.co.jp/
 * https://engineering.paidy.com/
 * https://cogniance.com/work/
 * https://www.springasia.com/japan
@@ -209,6 +208,7 @@ HP/MICROSOFT...
 | |[DJI](https://we.dji.com/jobs_en.html?site=brandsite&from=footer#) | Konan|
 | |[Teradata](https://www.teradata.com/Contact-Us#/?search=&region=Asia%20Pacific) | Akasaka |
 | |[Cougar](https://www.wantedly.com/companies/couger)| Jingumae |
+| |[Paidy](https://engineering.paidy.com/) | Roppongi |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
