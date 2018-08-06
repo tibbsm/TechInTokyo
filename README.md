@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://fidessa.csod.com/ats/careersite/search.aspx?site=7&c=fidessa
 * https://www.worksap.com/
 * https://www.oracle.com/corporate/careers/index.html
 * https://we.dji.com/jobs_en.html?site=brandsite&from=footer#
