@@ -52,8 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-
-* https://www.invast.jp/company/career/
 * http://www.sbibits.com/
 * https://corp.gree.net/jp/ja/recruit/
 * https://fidessa.csod.com/ats/careersite/search.aspx?site=7&c=fidessa
@@ -215,6 +213,7 @@ HP/MICROSOFT...
 | |[KLab](http://www.klab.com/jp/) | Roppongi |
 | |[Monoxer](http://corp.monoxer.com/recruit.html)| Shibuya |
 | |[Preferred Infrastructure](https://www.preferred-networks.jp/en/jobs) | Otemachi |
+| |[Invast](https://www.invast.jp/company_en/career/) | Nishi-Shimbashi |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
