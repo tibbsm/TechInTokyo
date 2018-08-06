@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://www.cygames.co.jp/en/
 * https://prodigy-inc.co.jp/en/
 * http://www.klab.com/jp/
 * https://monoxer.com/
@@ -215,6 +214,7 @@ HP/MICROSOFT...
 | |[Eams Lab](http://elab.co.jp/company/about-us/) | Saitama |
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
 | |[EmbodyMe](https://company.embodyme.com/) | Takadanobaba |
+| |[CyGames](https://www.cygames.co.jp/en/) | Shibuya |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
