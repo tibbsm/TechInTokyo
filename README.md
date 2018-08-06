@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://prodigy-inc.co.jp/en/
 * http://www.klab.com/jp/
 * https://monoxer.com/
 * https://preferred.jp/en/
