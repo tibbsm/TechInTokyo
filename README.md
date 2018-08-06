@@ -52,7 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* http://www.klab.com/jp/
 * https://monoxer.com/
 * https://preferred.jp/en/
 * https://www.invast.jp/company/career/
@@ -214,6 +213,7 @@ HP/MICROSOFT...
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
 | |[EmbodyMe](https://company.embodyme.com/) | Takadanobaba |
 | |[CyGames](https://www.cygames.co.jp/en/) | Shibuya |
+| |[KLab](http://www.klab.com/jp/) | Roppongi |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
