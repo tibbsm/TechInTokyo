@@ -52,8 +52,7 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://monoxer.com/
-* https://preferred.jp/en/
+
 * https://www.invast.jp/company/career/
 * http://www.sbibits.com/
 * https://corp.gree.net/jp/ja/recruit/
@@ -215,6 +214,7 @@ HP/MICROSOFT...
 | |[CyGames](https://www.cygames.co.jp/en/) | Shibuya |
 | |[KLab](http://www.klab.com/jp/) | Roppongi |
 | |[Monoxer](http://corp.monoxer.com/recruit.html)| Shibuya |
+| |[Preferred Infrastructure](https://preferred.jp/en/) | Otemachi |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
