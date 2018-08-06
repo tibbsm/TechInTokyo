@@ -52,14 +52,7 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://jda.com/careers
-* https://www.siemensgamesa.com/en-int/career
-* https://www.plusone.space/careers
-* https://www.klook.com/career/
-* https://www.splyza.com/en/recruit/
-* https://company.finc.com/recruit
-* https://metaps.com/careers/
-* http://www.advantage24.co.jp/corporate?locale=jp
+
 * https://drivemode.com/careers/
 * https://www.fout.co.jp/company/
 * https://corporate.coincheck.com/recruit/
@@ -205,6 +198,7 @@ HP/MICROSOFT...
 | |[Cougar](https://www.wantedly.com/companies/couger)| Jingumae |
 | |[Paidy](https://engineering.paidy.com/) | Roppongi |
 | |[bitcraft](https://www.bitcraft.co.jp/en/career.php) | Shibuya |
+| |[Drivemode](https://drivemode.com/careers/)| Shinjuku |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
