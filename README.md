@@ -214,6 +214,7 @@ HP/MICROSOFT...
 | |[EmbodyMe](https://company.embodyme.com/) | Takadanobaba |
 | |[CyGames](https://www.cygames.co.jp/en/) | Shibuya |
 | |[KLab](http://www.klab.com/jp/) | Roppongi |
+| |[Monoxer](http://corp.monoxer.com/recruit.html)| Shibuya |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
