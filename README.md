@@ -215,6 +215,8 @@ HP/MICROSOFT...
 | |[Eams Lab](http://elab.co.jp/company/about-us/) | Saitama |
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
 | |[EmbodyMe](https://company.embodyme.com/) | Takadanobaba |
+|✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
+
 ---
 
 ## <a name="remote">Remote Work</a>
