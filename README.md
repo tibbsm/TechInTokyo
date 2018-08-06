@@ -211,6 +211,7 @@ HP/MICROSOFT...
 | |[Monoxer](http://corp.monoxer.com/recruit.html)| Shibuya |
 | |[Preferred Infrastructure](https://www.preferred-networks.jp/en/jobs) | Otemachi |
 | |[Invast](https://www.invast.jp/company_en/career/) | Nishi-Shimbashi |
+| |[Works Applications](https://career.worksap.com/)| Akasaka |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
