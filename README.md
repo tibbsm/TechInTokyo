@@ -52,14 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-https://jobs.intel.com/ListJobs/All/Search/country/jp/city/tokyo/state/srw/
-
-HP/MICROSOFT...
-* http://www.s-medicom.co.jp/recruit_en.html
-* http://www.ousia.jp/ja/jobs
-* http://psygig.com/index.html
-
-
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
@@ -193,6 +185,7 @@ HP/MICROSOFT...
 | |[Drivemode](https://drivemode.com/careers/)| Shinjuku |
 | |[Coincheck](https://corporate.coincheck.com/recruit/) | Shibuya |
 | |[Freakout](https://www.fout.co.jp/recruit/) | Roppongi |
+| |[Psygig](http://psygig.com/index.html#team)| Shibuya |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
