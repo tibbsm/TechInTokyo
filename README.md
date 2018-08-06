@@ -52,8 +52,6 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-* https://www.teradata.com/
-* https://www.mti.co.jp/?page_id=12
 * https://couger.co.jp/
 * https://engineering.paidy.com/
 * https://cogniance.com/work/
@@ -210,6 +208,7 @@ HP/MICROSOFT...
 | |[Oracle](https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en)| Gaienmae |
 | |[DJI](https://we.dji.com/jobs_en.html?site=brandsite&from=footer#) | Konan|
 | |[Teradata](https://www.teradata.com/Contact-Us#/?search=&region=Asia%20Pacific) | Akasaka |
+| |[Cougar](https://www.wantedly.com/companies/couger)| Jingumae |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
