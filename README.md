@@ -60,7 +60,6 @@ Tech Companies in Tokyo, Japan
 | |[Wize Net](https://www.wize-net.co.jp/recruit/global/)| Kojimachi | 
 | |[Intel](https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/) | Shijuku |
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
-| |[Coiney](coiney.com) | Shinjuku |
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) |  |
 | |[Mercari](https://mercari.workable.com/j/1DB1AAD01E) | Roppongi |
 | |[Merpay](https://open.talentio.com/1/c/mercari/requisitions/detail/6794) | Roppongi |
@@ -107,6 +106,7 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Asprova](https://www.asprova.com/en/about/profile/careers.html) | Nishi-Gotanda |
+| |[Coiney* (Keisuke)](coiney.com) | Shinjuku |
 | |[Tamecco](http://www.tamecco.jp/en/company/jobs) | Nishi-Azabu |
 | |[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[LeapMind](https://leapmind.io/) (AngelList)| Shibuya |
@@ -147,7 +147,7 @@ Tech Companies in Tokyo, Japan
 | |[Tigerspike](https://tigerspike.com/contact/tokyo/)|Nihonbashi| 
 | |[Crowdcast](http://crowdcast.jp/about/hiring/)|Otemachi| 
 | |[Basho](http://basho.com/careers/)|Ikebukuro| 
-| |[Nanameue](https://nanameue.jp/careers)|Akasaka| 
+| |[Nanameue* (Wataru)](https://nanameue.jp/careers)|Akasaka| 
 | |[Pretia](http://www.pretia.co.jp/english)|Korakuen| 
 | |[Preferred Networks](https://www.preferred-networks.jp/en/tag/internship)|Otemachi| 
 | |[Tenten](https://www.mytenten.com/careers/)|Jingumae| 
