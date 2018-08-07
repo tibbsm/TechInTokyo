@@ -57,6 +57,7 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Google](https://careers.google.com/jobs#!t=jo&jid=/company/software-engineering-intern-bs-winter-76-9th-ave-new-york-ny-10011-usa-4071760056) | Multiple Locations |
+| |[Wize Net](https://www.wize-net.co.jp/recruit/global/)| Kojimachi | 
 | |[Intel](https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/) | Shijuku |
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) |  |
