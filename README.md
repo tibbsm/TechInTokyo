@@ -60,6 +60,7 @@ Tech Companies in Tokyo, Japan
 | |[Wize Net](https://www.wize-net.co.jp/recruit/global/)| Kojimachi | 
 | |[Intel](https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/) | Shijuku |
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
+| |[Coiney](coiney.com) | Shinjuku |
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) |  |
 | |[Mercari](https://mercari.workable.com/j/1DB1AAD01E) | Roppongi |
 | |[Merpay](https://open.talentio.com/1/c/mercari/requisitions/detail/6794) | Roppongi |
