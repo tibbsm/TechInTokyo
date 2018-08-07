@@ -65,6 +65,21 @@
 * Android N Developer Udemy
 * Brandon Gogetap: Advanced Android - Architecture with Dagger 2 and more
 
+* https://news.ycombinator.com/item?id=17696410
+* https://news.ycombinator.com/item?id=16745042
+
+* 1. Taking the coursera course probably a valuable use of time, alongside more general "meta-learning" about personal psychology. Books such as "How to Win friends..." "Power of Habit..." "Wherever you go, there you are..." etc
+
+* 2. Use "anki" or "ankidroid" depending on platform. Get public decks "Hiragana with stroke diagrams and audio," "Kana (katakana)," "Core 2k/6k optimized Japanese vocabulary," and use following youtube video to then create forward/backwards cards: https://www.youtube.com/watch?v=DnbKwHEQ1mA
+
+* 3. Use this resource for japanese grammar and complete exercises: http://www.guidetojapanese.org/learn/grammar
+
+* 4. Use this to practice listening skills: http://www.nhk.or.jp/radionews/
+
+* 5. Create and write down a clear reason for learning Japanese, and potentially book a flight (well ahead of time, and if economically viable) to set a concrete timeline for learning.
+
+* EDIT: By the way, the "Core 2k..." cards have example phrases for every word. I don't recommend trying to memorize these, but I do recommend reading the sentence out loud for every card. Muscle memory, further familiarity with grammar, helping sort whether a given verb is a ru- or non-ru verb, etc
+
 ## [Advice from Reddit](https://www.reddit.com/r/learnprogramming/comments/7srdqb/udemy_recommendations/)
 * check out some web designs from www.dribbble.com
 * full size landing page -> work your way to the full page that is reponsice and functional (with backend)
