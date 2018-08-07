@@ -224,3 +224,6 @@ Tech Companies in Tokyo, Japan
 * An app that allows not for productivity, but filters out distractions. Potentially a one task application/device. Purposefully set up new ritual/routines/habits with this thing. (Mono Tsu) Promotes a digital to analog to digital flow. Emphsizes making things. Working iteratively. Open to serendipity. Emphasizes artisnal processes. Community. 
 * A place for guilt-free relaxation. One-purpose room. Leaving it all there. Places to work are simple and minimal.
 * It's not that you want to constrain yourself from flexibility. You simply want to restrain yourself from doing certain things. Pick things that allow variability, but are limited. ie you can write about many things, but you won't surf the internet looking for easy solutions. Something like that...
+
+## Other internships 
+* [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)
