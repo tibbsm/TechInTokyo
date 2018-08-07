@@ -191,6 +191,7 @@ Tech Companies in Tokyo, Japan
 | |[Freakout](https://www.fout.co.jp/recruit/) | Roppongi |
 | |[Psygig](http://psygig.com/index.html#team)| Shibuya |
 | |[Studio Ousia](http://www.ousia.jp/ja/company)| Otemachi |
+| |[Zappallas](http://www.zappallas.com/recruit/) | Shibuya |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 
 ---
