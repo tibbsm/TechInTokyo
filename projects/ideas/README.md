@@ -36,6 +36,7 @@
 ### Udemy
 * [Udemy Python Bootcamp](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/content)
 * ~~[Node with React Fullstack](https://www.udemy.com/node-with-react-fullstack-web-development/)~~
+* [Ethical Hacking](https://www.udemy.com/learn-ethical-hacking-from-scratch/)
 
 ### Udacity
 * [Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851) 
