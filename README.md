@@ -104,6 +104,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Asprova](https://www.asprova.com/en/about/profile/careers.html) | Nishi-Gotanda |
 | |[Tamecco](http://www.tamecco.jp/en/company/jobs) | Nishi-Azabu |
 | |[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[LeapMind](https://leapmind.io/) (AngelList)| Shibuya |
