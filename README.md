@@ -82,6 +82,7 @@ Tech Companies in Tokyo, Japan
 | |[Yumemi](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Sangenjaya |
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
 | |[Widsley](https://widsley.com/intern/)| Shibuya |
+| |[Dwango](http://dwango.co.jp/recruit/intern/) | Ginza |
 | |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 |✓|[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
 |✓|[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
