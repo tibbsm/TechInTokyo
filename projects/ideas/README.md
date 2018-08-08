@@ -1,10 +1,5 @@
 # Project Ideas
 
-* https://www.udacity.com/nanodegree
-
-## Contents
-* Code
-
 ## Languages
 
 ### Java
@@ -40,6 +35,7 @@
 
 ### Udacity
 * [Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851) 
+* [Nano Degrees](https://www.udacity.com/nanodegree)
 
 ### Github Resources
 * [Build Your Own [insert]](https://github.com/danistefanovic/build-your-own-x#build-your-own-game)
