@@ -1,5 +1,8 @@
 # Project Ideas
 
+* [Facebook ML](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+* [Google ML](https://developers.google.com/machine-learning/guides/)
+
 ## Languages
 
 ### Java
