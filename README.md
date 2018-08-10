@@ -3,7 +3,7 @@ Tech Companies in Tokyo, Japan
 
 * "Networking should be your number one resource" – Someone on OSU Slack group
 * "Emotional buyers screw themselves over" – Someone on OSU Slack 
-* Quotes I'mnot sure where to put yet..
+* Be an active part of the community
 
 ## Contents
 * [Guides](#guides)
@@ -215,21 +215,19 @@ Tech Companies in Tokyo, Japan
   * Bit manipulation doesn't come up unless you're going for low level jobs, but when they do the answer probably involves XOR'ing
 ---
 ## <a name="notes">Notes</a>
-* Remote work options and pathways
-* What do you actually want to do? May not be able to be picky right now, but can start aiming for a path.
-* Comparisons to the States
+* Comparisons to the States and start looking for WA/CA jobs, and compile list of companies there
 * https://github.com/btamada/jp-software-companies
-* Learn react, js, python, java
 * [Tokyo Neighborhoods](https://en.wikipedia.org/wiki/Category:Neighborhoods_of_Tokyo)
-* Start looking for WA/CA jobs 
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
-* Be ab active part of the community
 * Literally copy stuff and then tweak it
 * [Teach Yourself CS](https://teachyourselfcs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
-* Python "For image processing check out Pillow. For web scraping check out BeautifulSoup. For machine learning and scientific computing, check out scipy and matplotlib, or just get Anaconda."
+* Python 
+   * "For image processing check out Pillow. 
+   * For web scraping check out BeautifulSoup. 
+   * For machine learning and scientific computing, check out scipy and matplotlib, or just get Anaconda."
 * An app that allows not for productivity, but filters out distractions. Potentially a one task application/device. Purposefully set up new ritual/routines/habits with this thing. (Mono Tsu) Promotes a digital to analog to digital flow. Emphsizes making things. Working iteratively. Open to serendipity. Emphasizes artisnal processes. Community. 
 * A place for guilt-free relaxation. One-purpose room. Leaving it all there. Places to work are simple and minimal.
 * It's not that you want to constrain yourself from flexibility. You simply want to restrain yourself from doing certain things. Pick things that allow variability, but are limited. ie you can write about many things, but you won't surf the internet looking for easy solutions. Something like that...
 
-## Other internships 
+## Other internships (US)
 * [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)
