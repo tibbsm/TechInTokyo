@@ -51,6 +51,7 @@ Tech Companies in Tokyo, Japan
 * [Robert Half](https://www.roberthalf.jp/en)
 * [en World](https://www.enworld.com/en)
 * [Wahl and Case](https://www.wahlandcase.com/)
+* [Recruiter Room (AI/Blockchain)](https://www.recruiterroom.com/about/)
 ---
 ## <a name="companies">Companies</a>
 
