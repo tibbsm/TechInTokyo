@@ -85,14 +85,14 @@ Tech Companies in Tokyo, Japan
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
 | |[Widsley](https://widsley.com/intern/)| Shibuya |
 | |[Dwango](http://dwango.co.jp/recruit/intern/) | Ginza |
-| |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
-|✓|[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
-|✓|[Izumo Base](https://www.izumobase.com/recruit#internship)| Shinsen | 
-|✓|[Yaraku](https://www.yaraku.com/careers/)| Shibuya |
-|✓|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
-|✓|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
+|✓|[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
+|X|[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
+|X|[Izumo Base](https://www.izumobase.com/recruit#internship) (No reply)| Shinsen | 
+|X|[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
+|X|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
+|X|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs) (No reply)| Akihabara |
 |X|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
-|X|[Mujin](https://mujin.co.jp/) (Ghosted)|Oshiage| 
+|X|[Mujin](https://mujin.co.jp/) |Oshiage| 
 |X|[HDE](https://www.hde.co.jp/en/) (Apply again from August 22)| Shibuya | 
 |X|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 |★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
