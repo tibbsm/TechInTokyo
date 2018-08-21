@@ -6,6 +6,7 @@ Tech Companies in Tokyo, Japan
 * Be an active part of the community in Tokyo
 * Start Robotics markdown/clean up old file tree
 * https://www.superdrive.io/#clients
+* https://www.clearpathrobotics.com/
 
 ## Contents
 * [Guides](#guides)
