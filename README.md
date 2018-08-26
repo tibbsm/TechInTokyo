@@ -202,6 +202,7 @@ Tech Companies in Tokyo, Japan
 | |[Studio Ousia](http://www.ousia.jp/ja/company)| Otemachi |
 | |[Zappallas](http://www.zappallas.com/recruit/) | Shibuya |
 |✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
+| |[Flower Robotics](http://www.flower-robotics.com/robots.html) | ??? (JAPAN) |
 
 ---
 
