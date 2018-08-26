@@ -14,3 +14,5 @@
 * Kanji
 * ML with sketches
 * Theses
+* Learning Resource:
+   * **Vim**: https://www.openvim.com/
