@@ -6,8 +6,6 @@ Tech Companies in Tokyo, Japan
 * Be an active part of the community in Tokyo.
 * Start Robotics markdown/clean up old file tree.
 * https://freshjobs.io/
-* https://www.superdrive.io/#clients
-* https://www.clearpathrobotics.com/
 
 ## Contents
 * [Guides](#guides)
@@ -102,6 +100,10 @@ Tech Companies in Tokyo, Japan
 |X|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 | |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
 | |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
+| |[Super Drive](https://www.superdrive.io/#clients) | Higashi-Azabu |
+| |[Clearpath Robotics](https://www.clearpathrobotics.com/) | Ontario |
+
+
 
 ### <a name="entry">Entry-Level Jobs</a>
 | |Company | Location | 
