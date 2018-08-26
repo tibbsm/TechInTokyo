@@ -15,3 +15,4 @@
 | |[iRobot](https://careers-irobot.icims.com/jobs/3921/robotics-%26-vision-intern/job) | LA / MA|
 | |[Omron](https://recruiting.adp.com/srccar/public/RTI.home?c=1087941&d=OMRON_USA#/)| San Ramon|
 | |[Universal Robotics](https://www.universal-robots.com/career/available-jobs/) | Denmark |
+| |[Amazon Robotics](https://www.amazon.jobs/en/jobs/689647/software-engineer-robotic-applications) | Seattle |
