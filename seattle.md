@@ -5,7 +5,7 @@
 * Addepar
 * Nordstrom
 * Shopify
-* Khan Academy
+* Khan Academy - https://www.khanacademy.org/careers/interns/software-dev
 * Rubrik - https://www.rubrik.com/company/careers/departments/engineering-1929/
 * Oracle
 * Indeed
