@@ -9,5 +9,5 @@
 * Rubrik
 * Oracle
 * Indeed
-* Tableau
+* Tableau - Applied
 * Zillow
