@@ -1,7 +1,7 @@
 # Seattle
 
 * Capitol One
-* Blend
+* Blend - https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7
 * Addepar
 * Nordstrom
 * Shopify
