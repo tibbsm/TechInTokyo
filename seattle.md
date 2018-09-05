@@ -6,7 +6,7 @@
 * Nordstrom
 * Shopify
 * Khan Academy
-* Rubrik
+* Rubrik - https://www.rubrik.com/company/careers/departments/engineering-1929/
 * Oracle
 * Indeed
 * [Tableau](https://careers.tableau.com/listing) - Applied
