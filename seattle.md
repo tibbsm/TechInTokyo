@@ -10,4 +10,4 @@
 * Oracle
 * Indeed
 * [Tableau](https://careers.tableau.com/listing) - Applied
-* Zillow - Apple!
+* [Zillow](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/jobs) - Apple! - Applied
