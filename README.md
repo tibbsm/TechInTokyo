@@ -114,6 +114,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Clarity](https://www.clarity.tokyo/article/recruiting-engineer_02_en)| Aoyama-Itchome |
 | |[Asprova](https://www.asprova.com/en/about/profile/careers.html) | Nishi-Gotanda |
 | |[Coiney* (Keisuke)](coiney.com) | Shinjuku |
 | |[Tamecco](http://www.tamecco.jp/en/company/jobs) | Nishi-Azabu |
