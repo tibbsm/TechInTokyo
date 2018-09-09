@@ -3,8 +3,8 @@ Tech Companies in Tokyo, Japan
 
 * "Networking should be your number one resource" – Someone on OSU Slack group
 * "Emotional buyers screw themselves over" – Someone on OSU Slack 
-
 * Be an active part of the community in Tokyo.
+
 * Start Robotics markdown/clean up old file tree.
 * https://freshjobs.io/
 
@@ -110,6 +110,9 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Borderless](https://angel.co/borderless/jobs)| ? | 
+
+
+
 
 ### <a name="job">Jobs</a>
 | |Company | Location | 
@@ -223,6 +226,8 @@ Tech Companies in Tokyo, Japan
   * Also, there's a few algos you should definitely know like the palm of your hand. BFS, DFS, and the different kinds of level order traversals for trees come up over and over, for example.
   * Backtracking and dynamic programming are extremely common
   * Bit manipulation doesn't come up unless you're going for low level jobs, but when they do the answer probably involves XOR'ing
+  
+  
 ---
 ## <a name="notes">Notes</a>
 * Comparisons to the States and start looking for WA/CA jobs, and compile list of companies there
