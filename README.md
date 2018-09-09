@@ -225,7 +225,7 @@ Tech Companies in Tokyo, Japan
   * Focus on trees, linked lists, dynamic programming, arrays, and hash table questions
   * Also, there's a few algos you should definitely know like the palm of your hand. BFS, DFS, and the different kinds of level order traversals for trees come up over and over, for example.
   * Backtracking and dynamic programming are extremely common
-  * Bit manipulation doesn't come up unless you're going for low level jobs, but when they do the answer probably involves XOR'ing
+  * Bit manipulation doesn't come up unless you're going for low level jobs, but when they do the answer probably involves XOR'ing.
   
   
 ---
