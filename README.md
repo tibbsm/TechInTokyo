@@ -117,6 +117,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Original Stitch](https://jobs.lever.co/originalstitch) | |
 | |[Clarity](https://www.clarity.tokyo/article/recruiting-engineer_02_en)| Aoyama-Itchome |
 | |[Asprova](https://www.asprova.com/en/about/profile/careers.html) | Nishi-Gotanda |
 | |[Coiney* (Keisuke)](coiney.com) | Shinjuku |
