@@ -1,5 +1,8 @@
 # Seattle
 
+* [Easy Apply](https://github.com/j-delaney/easy-application)
+* [No Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
 Map
 
 * Capitol One - https://campus.capitalone.com/technology-program?id=internship - Applied
