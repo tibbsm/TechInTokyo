@@ -43,6 +43,7 @@ Tech Companies in Tokyo, Japan
 * [Stack Overflow (Japan Jobs)](https://stackoverflow.com/jobs?sort=i&l=japan&d=20&u=Km)
 * [Tech Jobs in Tokyo](https://techjobs.tokyo/#/jobs/search)
 * [Craigslist](https://tokyo.craigslist.jp/d/software-qa-dba-etc/search/sof?lang=en&cc=us)
+* [Devjobs](https://devjobs.jp/)
 ---
 ## <a name="recruiters">Recruiters</a>
 * [Computer Futures](https://www.computerfutures.com/jobs/japan/?locale=en)
