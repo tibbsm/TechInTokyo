@@ -94,7 +94,7 @@ Tech Companies in Tokyo, Japan
 | |[HDE](https://www.hde.co.jp/en/) | Shibuya | 
 |★|[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 |★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
-|X|[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs) (No reply)| Akihabara |
+| |[Fove](https://www.linkedin.com/jobs/view/robotics-intern-at-fove-752934254/?trk=job_view_similar_jobs)| Akihabara |
 |X|[Izumo Base](https://www.izumobase.com/recruit#internship) (No reply)| Shinsen | 
 |X|[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
 |X|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
