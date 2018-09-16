@@ -233,7 +233,7 @@ Tech Companies in Tokyo, Japan
   
 ---
 ## <a name="notes">Notes</a>
-* Comparisons to the States and start looking for WA/CA jobs, and compile list of companies there
+* Comparisons to the States and start looking for WA/CA jobs, and compile list of companies there..
 * https://github.com/btamada/jp-software-companies
 * [Tokyo Neighborhoods](https://en.wikipedia.org/wiki/Category:Neighborhoods_of_Tokyo)
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
