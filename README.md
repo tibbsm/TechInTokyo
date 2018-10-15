@@ -73,7 +73,7 @@ Tech Companies in Tokyo, Japan
 | |[Kabuku](https://www.kabuku.co.jp/en/jobs/intern-software-developer) | Shinjuku |
 | |[Net Smile](https://netsmile.jp/en/)| Yushima ||
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
-| |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Akasaka |
+| |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 | |[Google](https://careers.google.com/)| Roppongi |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
@@ -115,6 +115,7 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+|X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 | |[Tier IV](https://tier4.jp/en/jobs.php) | Nagoya |
 | |[Origami](https://about.origami.com/careers/job/)
 | |[Original Stitch](https://jobs.lever.co/originalstitch) | |
