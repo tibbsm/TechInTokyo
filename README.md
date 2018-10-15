@@ -144,7 +144,7 @@ Tech Companies in Tokyo, Japan
 | |[MOI](https://about.moi.st/en/recruit/)|Jimbocho|  
 | |[Engoo](https://app.engoo.com/jobs)|Ebisu| 
 | |[UltraSuperNew](http://ultrasupernew.com/careers/)|Shibuya| 
-| |[be-spoke](http://www.be-spoke.io/#jobs)|Shibuya| 
+| |[be-spoke](http://www.be-spoke.io/#jobs) (Wataru)|Shibuya| 
 | |[moneytree](https://moneytree.jp/careers/)|Shibuya| 
 | |[Rich Table](https://www.richtable.net/careers)|Shibuya| 
 | |[Google](https://careers.google.com/)|Roppongi| 
@@ -161,7 +161,7 @@ Tech Companies in Tokyo, Japan
 | |[Tigerspike](https://tigerspike.com/contact/tokyo/)|Nihonbashi| 
 | |[Crowdcast](http://crowdcast.jp/about/hiring/)|Otemachi| 
 | |[Basho](http://basho.com/careers/)|Ikebukuro| 
-| |[Nanameue* (Wataru)](https://nanameue.jp/careers)|Akasaka| 
+| |[Nanameue](https://nanameue.jp/careers)|Akasaka| 
 | |[Pretia](http://www.pretia.co.jp/english)|Korakuen| 
 | |[Preferred Networks](https://www.preferred-networks.jp/en/tag/internship)|Otemachi| 
 | |[Tenten](https://www.mytenten.com/careers/)|Jingumae| 
