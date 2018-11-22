@@ -115,15 +115,16 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
-| X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
+| |[BeProud](https://www.beproud.jp/careers/en/) | Shinjuku |
+|X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 | |[Tier IV](https://tier4.jp/en/jobs.php) | Nagoya |
-| |[Origami](https://about.origami.com/careers/job/)
+|X|[Origami](https://about.origami.com/careers/job/)
 | |[Original Stitch](https://jobs.lever.co/originalstitch) | |
 | |[Clarity](https://www.clarity.tokyo/article/recruiting-engineer_02_en)| Aoyama-Itchome |
 | |[Asprova](https://www.asprova.com/en/about/profile/careers.html) | Nishi-Gotanda |
 | |[Coiney* (Keisuke)](coiney.com) | Shinjuku |
 | |[Tamecco](http://www.tamecco.jp/en/company/jobs) | Nishi-Azabu |
-| |[Line](https://engineering.linecorp.com/en/) | Shinjuku |
+|X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[LeapMind](https://leapmind.io/) (AngelList)| Shibuya |
 | |[OLM](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Setagaya |
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
