@@ -144,6 +144,7 @@ Tech Companies in Tokyo, Japan
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[Tigerspike](https://tigerspike.com/contact/tokyo/)| Nihonbashi | 
+| |[The Plant](https://theplant.jp/careers)| Nishi-Azabu |
 | |[Tamecco](http://www.tamecco.jp/en/company/jobs) | Nishi-Azabu |
 | |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
 | |[Asprova](https://www.asprova.com/en/about/profile/careers.html) | Nishi-Gotanda |
