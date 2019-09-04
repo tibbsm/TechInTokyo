@@ -121,6 +121,11 @@ Tech Companies in Tokyo, Japan
 | |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
 | |[iSpace](https://jobs.lever.co/ispace-inc)|Roppongi| 
 | |[Paidy](https://engineering.paidy.com/) | Roppongi |
+| |[be-spoke](http://www.be-spoke.io/#jobs) (Wataru)|Shibuya| 
+| |[Goodpatch](https://goodpatch.com/)| Shibuya | 
+| |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
+| |[moneytree](https://moneytree.jp/careers/)|Shibuya| 
+| |[Voyagin](https://www.govoyagin.com/about-us/careers)| Shibuya | 
 |X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 |X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
 |X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
@@ -166,14 +171,9 @@ Tech Companies in Tokyo, Japan
 | |[Eams Lab](http://elab.co.jp/company/about-us/) | Saitama |
 | |[FastJapan](https://www.wantedly.com/projects/182850)|Sendagaya| 
 | |[OLM](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Setagaya |
-| |[be-spoke](http://www.be-spoke.io/#jobs) (Wataru)|Shibuya| 
 | |[LeapMind](https://leapmind.io/) (AngelList)| Shibuya |
 | |[Styler Inc](https://styler.link/)| Shibuya | 
-| |[Goodpatch](https://goodpatch.com/)| Shibuya | 
 | |[UltraSuperNew](http://ultrasupernew.com/careers/)|Shibuya| 
-| |[Voyagin](https://www.govoyagin.com/about-us/careers)| Shibuya | 
-| |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
-| |[moneytree](https://moneytree.jp/careers/)|Shibuya| 
 | |[Sora](http://sora.flights/heroes/)|Shibuya| 
 | |[Gengo](http://careers.gengo.com/)|Shibuya| 
 | |[New Rope](http://www.newrope.biz/) | Shibuya |
