@@ -142,7 +142,6 @@ Tech Companies in Tokyo, Japan
 | |[Amazon](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro| 
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
-| |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita| 
 | |[Tier IV](https://tier4.jp/en/jobs.php) | Nagoya |
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
