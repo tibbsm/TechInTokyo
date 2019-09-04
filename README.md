@@ -59,13 +59,20 @@ Tech Companies in Tokyo, Japan
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
+|★|[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
+|★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
+|★|[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
+|X|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
+|X|[Izumo Base](https://www.izumobase.com/recruit#internship) | Shinsen | 
+|X|[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
+|X|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
+|X|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
 | |[Fove](http://www.getfove.com/)| Akihabara |
 | |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
 | |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
 | |[Inter-tel](https://www.inter-tel.co.jp/company) | Ebisu |
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
-|★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 | |[TableCheck](https://corp.tablecheck.com/en/jobs/)| Ginza | 
 | |[Dwango](http://dwango.co.jp/recruit/intern/) | Ginza |
 | |[Super Drive](https://www.superdrive.io/#clients) | Higashi-Azabu |
@@ -76,8 +83,6 @@ Tech Companies in Tokyo, Japan
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) | Myogadani |
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
-|★|[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
-|X|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[Mujin](https://mujin.co.jp/) |Oshiage| 
@@ -88,15 +93,10 @@ Tech Companies in Tokyo, Japan
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 | |[Yumemi](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Sangenjaya |
 | |[Widsley](https://widsley.com/intern/)| Shibuya |
-|X|[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
 | |[HDE](https://www.hde.co.jp/en/) | Shibuya | 
-|X|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
-|★|[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
-|X|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
 | |[Intel](https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/) | Shinjuku |
 | |[Kabuku](https://www.kabuku.co.jp/en/jobs/intern-software-developer) | Shinjuku |
 | |[Go Go Nihon](https://gogonihon.com/en/careers/internship/) | Shinjuku |
-|X|[Izumo Base](https://www.izumobase.com/recruit#internship) | Shinsen | 
 | |[Continental](http://www.continental-jobs.com/index.php?ac=jobad&id=746885)| Yokohama |
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)| Yokohama | 
 | |[Net Smile](https://netsmile.jp/en/)| Yushima |
@@ -106,6 +106,9 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+|X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
+|X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
+|X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[Clarity](https://www.clarity.tokyo/article/recruiting-engineer_02_en)| Aoyama-Itchome |
 | |[Squeeze](https://squeeze-inc.co.jp/job/7/)|Aoyama-Itchome| 
 | |[Nanameue](https://nanameue.jp/careers)|Akasaka| 
@@ -138,7 +141,7 @@ Tech Companies in Tokyo, Japan
 | |[Wovn.io](https://wovn.io/careers/)|Minami-Azabu| 
 | |[Amazon](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro| 
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
-|✓|[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
+| |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[Seven Dreamers](https://sevendreamers.com/en/careers/)|Mita| 
 | |[Tier IV](https://tier4.jp/en/jobs.php) | Nagoya |
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
@@ -154,9 +157,7 @@ Tech Companies in Tokyo, Japan
 | |[Crowdcast](http://crowdcast.jp/about/hiring/)|Otemachi| 
 | |[Preferred Infrastructure](https://www.preferred-networks.jp/en/jobs) | Otemachi |
 | |[Preferred Networks](https://www.preferred-networks.jp/en/tag/internship)|Otemachi| 
-|X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 | |[Google](https://careers.google.com/)|Roppongi/Shibuya| 
-|X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
 | |[Pivotal](https://pivotal.io/careers/openings) | Roppongi |
 | |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
 | |[iSpace](https://jobs.lever.co/ispace-inc)|Roppongi| 
@@ -189,7 +190,6 @@ Tech Companies in Tokyo, Japan
 | |[Drivemode](https://drivemode.com/careers/)| Shinjuku |
 | |[BeProud](https://www.beproud.jp/careers/en/) | Shinjuku |
 | |[Coiney* (Keisuke)](coiney.com) | Shinjuku |
-|X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[Rapyuta](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa| 
 | |[Abeja](https://abejainc.com/en/recruit/)|Shirokane|
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
