@@ -117,6 +117,10 @@ Tech Companies in Tokyo, Japan
 | |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
 | |[Tigerspike](https://tigerspike.com/contact/tokyo/)| Nihonbashi | 
 | |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
+| |[Preferred Networks](https://www.preferred-networks.jp/en/tag/internship)|Otemachi| 
+| |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
+| |[iSpace](https://jobs.lever.co/ispace-inc)|Roppongi| 
+| |[Paidy](https://engineering.paidy.com/) | Roppongi |
 |X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 |X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
 |X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
@@ -155,13 +159,9 @@ Tech Companies in Tokyo, Japan
 | |[Studio Ousia](http://www.ousia.jp/ja/company)| Otemachi |
 | |[Crowdcast](http://crowdcast.jp/about/hiring/)|Otemachi| 
 | |[Preferred Infrastructure](https://www.preferred-networks.jp/en/jobs) | Otemachi |
-| |[Preferred Networks](https://www.preferred-networks.jp/en/tag/internship)|Otemachi| 
 | |[Google](https://careers.google.com/)|Roppongi/Shibuya| 
 | |[Pivotal](https://pivotal.io/careers/openings) | Roppongi |
-| |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
-| |[iSpace](https://jobs.lever.co/ispace-inc)|Roppongi| 
 | |[KLab](http://www.klab.com/jp/) | Roppongi |
-| |[Paidy](https://engineering.paidy.com/) | Roppongi |
 | |[Freakout](https://www.fout.co.jp/recruit/) | Roppongi |
 | |[Eams Lab](http://elab.co.jp/company/about-us/) | Saitama |
 | |[FastJapan](https://www.wantedly.com/projects/182850)|Sendagaya| 
