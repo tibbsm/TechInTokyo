@@ -76,7 +76,7 @@ Tech Companies in Tokyo, Japan
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) | Myogadani |
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
-| |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
+|★|[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
 |X|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
