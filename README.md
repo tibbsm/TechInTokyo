@@ -59,6 +59,12 @@ Tech Companies in Tokyo, Japan
 ### <a name="Internships">Internships</a>
 | |Company | Location | 
 |---|---|---|
+| |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
+| |[Monopo](https://monopo.co.jp/team/) | Jingumae |
+| |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
+| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
+| |[Mujin](https://mujin.co.jp/) |Oshiage| 
+| |[HENNGE](https://hennge.com/) | Shibuya | 
 |★|[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
 |★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
 |★|[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
@@ -67,25 +73,20 @@ Tech Companies in Tokyo, Japan
 |X|[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
 |X|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
 |X|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
+| |[Dwango](http://dwango.co.jp/recruit/intern/) | Ginza |
 | |[Fove](http://www.getfove.com/)| Akihabara |
-| |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
 | |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
 | |[Inter-tel](https://www.inter-tel.co.jp/company) | Ebisu |
 | |[Ascent](https://ascent-robotics.breezy.hr/p/03c9bb657d0d-internship-software-and-robotics)| Ebisu | 
 | |[UNU](https://unu.edu/about/internship/campus-computing-centre.html#applications_procedure) | Gaienmae |
 | |[TableCheck](https://corp.tablecheck.com/en/jobs/)| Ginza | 
-| |[Dwango](http://dwango.co.jp/recruit/intern/) | Ginza |
 | |[Super Drive](https://www.superdrive.io/#clients) | Higashi-Azabu |
 | |[LPixel](https://lpixel.net/en/careers/internship/) | Hongo |
-| |[Monopo](https://monopo.co.jp/team/) | Jingumae |
 | |[Wize Net](https://www.wize-net.co.jp/recruit/global/)| Kojimachi | 
 | |[Forum 8](http://www.forum8.co.jp/english/recruit-internship-e.htm) | Konan |
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[ZMP](https://www.zmp.co.jp/en/recruit/internship) | Myogadani |
 | |[NEC](https://www.nec.com/en/global/rd/crl/ai/groups/datamining/intern/en_jd_data.html)| Musashikosugi |
-| |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
-| |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
-| |[Mujin](https://mujin.co.jp/) |Oshiage| 
 | |[Merpay](https://open.talentio.com/1/c/mercari/requisitions/detail/6794) | Roppongi |
 | |[Google](https://careers.google.com/jobs) | Roppongi / Shibuya |
 | |[Mercari](https://mercari.workable.com/j/1DB1AAD01E) | Roppongi |
@@ -93,7 +94,6 @@ Tech Companies in Tokyo, Japan
 | |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 | |[Yumemi](https://olm.co.jp/recruit/english-career/english-rd-division/en-software-engineer/?lang=en) | Sangenjaya |
 | |[Widsley](https://widsley.com/intern/)| Shibuya |
-| |[HDE](https://www.hde.co.jp/en/) | Shibuya | 
 | |[Intel](https://jobs.intel.com/ShowJob/Id/1721156/Technical-intern-Field-Application-Engineer-group/) | Shinjuku |
 | |[Kabuku](https://www.kabuku.co.jp/en/jobs/intern-software-developer) | Shinjuku |
 | |[Go Go Nihon](https://gogonihon.com/en/careers/internship/) | Shinjuku |
