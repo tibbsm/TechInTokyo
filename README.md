@@ -114,6 +114,9 @@ Tech Companies in Tokyo, Japan
 | |[Smart News](https://smartnews.workable.com/) | Jingumae |
 | |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
 | |[Wovn.io](https://wovn.io/careers/)|Minami-Azabu| 
+| |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
+| |[Tigerspike](https://tigerspike.com/contact/tokyo/)| Nihonbashi | 
+| |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
 |X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 |X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
 |X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
@@ -144,11 +147,8 @@ Tech Companies in Tokyo, Japan
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
 | |[Tier IV](https://tier4.jp/en/jobs.php) | Nagoya |
 | |[Nissan](https://justa.io/candidate/jobs/1651?page=1) | Nakameguro |
-| |[Wizcorp](https://www.wizcorp.jp/#home)| Nihonbashi | 
-| |[Tigerspike](https://tigerspike.com/contact/tokyo/)| Nihonbashi | 
 | |[The Plant](https://theplant.jp/careers)| Nishi-Azabu |
 | |[Tamecco](http://www.tamecco.jp/en/company/jobs) | Nishi-Azabu |
-| |[Leomo](https://www.leomo.io/pages/careers) | Nishi-Azabu|
 | |[Asprova](https://www.asprova.com/en/about/profile/careers.html) | Nishi-Gotanda |
 | |[Wanderlust](http://www.wanderlust.co.jp/recruit.html) | Nishi-Gotanda |
 | |[Invast](https://www.invast.jp/company_en/career/) | Nishi-Shimbashi |
