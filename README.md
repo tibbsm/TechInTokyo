@@ -126,6 +126,11 @@ Tech Companies in Tokyo, Japan
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
 | |[moneytree](https://moneytree.jp/careers/)|Shibuya| 
 | |[Voyagin](https://www.govoyagin.com/about-us/careers)| Shibuya | 
+| |[bitcraft](https://www.bitcraft.co.jp/en/career.php) | Shibuya |
+| |[Drivemode](https://drivemode.com/careers/)| Shinjuku |
+| |[BeProud](https://www.beproud.jp/careers/en/) | Shinjuku |
+| |[Rapyuta](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa| 
+| |[Work Japan](https://www.workjapan.jp/) | Toranomon |
 |X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 |X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
 |X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
@@ -182,18 +187,13 @@ Tech Companies in Tokyo, Japan
 | |[Play Brain](http://playbrain.jp/careers/) | Shibuya |
 | |[CyGames](https://www.cygames.co.jp/en/) | Shibuya |
 | |[Monoxer](http://corp.monoxer.com/recruit.html)| Shibuya |
-| |[bitcraft](https://www.bitcraft.co.jp/en/career.php) | Shibuya |
 | |[Coincheck](https://corporate.coincheck.com/recruit/) | Shibuya |
 | |[Psygig](http://psygig.com/index.html#team)| Shibuya |
 | |[Zappallas](http://www.zappallas.com/recruit/) | Shibuya |
-| |[Drivemode](https://drivemode.com/careers/)| Shinjuku |
-| |[BeProud](https://www.beproud.jp/careers/en/) | Shinjuku |
 | |[Coiney* (Keisuke)](coiney.com) | Shinjuku |
-| |[Rapyuta](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa| 
 | |[Abeja](https://abejainc.com/en/recruit/)|Shirokane|
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
 | |[EmbodyMe](https://company.embodyme.com/) | Takadanobaba |
-| |[Work Japan](https://www.workjapan.jp/) | Toranomon |
 | |[Repro](https://repro.io/about/) | Yoyogi |
 | |[Original Stitch](https://jobs.lever.co/originalstitch) | ? |
 | |[Borderless](https://angel.co/borderless/jobs)| ? | 
