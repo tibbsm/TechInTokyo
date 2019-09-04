@@ -106,39 +106,39 @@ Tech Companies in Tokyo, Japan
 ### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
+| |[Nanameue](https://nanameue.jp/careers)|Akasaka| 
+| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
+| |[Engoo](https://app.engoo.com/jobs)|Ebisu| 
+| |[Rakuten](https://talent.rakuten.careers/)|Futako-Tamagawa| 
+| |[MOI](https://about.moi.st/en/recruit/)|Jimbocho|  
+| |[Smart News](https://smartnews.workable.com/) | Jingumae |
+| |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
+| |[Wovn.io](https://wovn.io/careers/)|Minami-Azabu| 
 |X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
 |X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
 |X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[Clarity](https://www.clarity.tokyo/article/recruiting-engineer_02_en)| Aoyama-Itchome |
 | |[Squeeze](https://squeeze-inc.co.jp/job/7/)|Aoyama-Itchome| 
-| |[Nanameue](https://nanameue.jp/careers)|Akasaka| 
 | |[Teradata](https://www.teradata.com/Contact-Us#/?search=&region=Asia%20Pacific) | Akasaka |
-| |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Works Applications](https://career.worksap.com/)| Akasaka |
 | |[WAP](http://career.worksap.com/contents/jobs.html)| Akasaka | 
 | |[Quoine](https://careers.quoine.com/)|Akasaka-Mitsuke| 
 | |[Trigence](https://www.trigence.com/about-us)|Akihabara| 
 | |[Fusion Systems](https://www.hireplanner.com/en/frontend/companies/Fusion-Systems-Japan-Ltd/jobs)| Azabu| 
 | |[Cogent Labs](https://www.cogent.co.jp/en/careers/)|Daikanyama| 
-| |[Engoo](https://app.engoo.com/jobs)|Ebisu| 
-| |[Rakuten](https://talent.rakuten.careers/)|Futako-Tamagawa| 
 | |[Oracle](https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en)| Gaienmae |
 | |[Emotion Intelligence](https://www.emin.co.jp/en/)| Gotanda | 
 | |[Zeppelin](https://www.zeppelin.co.jp/join/)|Harajuku| 
 | |[Basho](http://basho.com/careers/)|Ikebukuro| 
-| |[MOI](https://about.moi.st/en/recruit/)|Jimbocho|  
 | |[Tenten](https://www.mytenten.com/careers/)|Jingumae| 
 | |[Tokyo Weekendr](https://www.tokyoweekender.com/careers)|Jingumae| 
 | |[Cougar](https://www.wantedly.com/companies/couger)| Jingumae |
-| |[Smart News](https://smartnews.workable.com/) | Jingumae |
 | |[Tateru](https://corp.tateru.co/en/recruit) | Jingumae |
-| |[Japan Travel](https://en.japantravel.com/about/company/jobs#web-developer)|Kojimachi| 
 | |[DJI](https://we.dji.com/jobs_en.html?site=brandsite&from=footer#) | Konan |
 | |[Pretia](http://www.pretia.co.jp/english)|Korakuen| 
 | |[Reallyenglish](https://www.reallyenglish.com/)| Kudanshita | 
 | |[Treasure Data](www.treasuredata.com)| Marunouchi |
 | |[Telexistence](https://tx-inc.com/ja/career/)| Minami Aoyama|
-| |[Wovn.io](https://wovn.io/careers/)|Minami-Azabu| 
 | |[Amazon](https://www.amazon.jobs/location/tokyo-area-japan)|Meguro| 
 | |[Quipper](https://www.quipper.com/career/Japan/) | Meguro |
 | |[htm](http://www.htm.co.jp/contact.htm)| Minami-Azabu | 
