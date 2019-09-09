@@ -60,7 +60,6 @@ Tech Companies in Tokyo, Japan
 | |Company | Location | 
 |---|---|---|
 | |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
-| |[Monopo](https://monopo.co.jp/team/) | Jingumae |
 | |[exiii](https://exiii.jp/recruit/) | Nihonbashi |
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[Mujin](https://mujin.co.jp/) |Oshiage| 
