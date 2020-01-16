@@ -120,7 +120,7 @@ Tech Companies in Tokyo, Japan
 | |[Reaktor](https://www.reaktor.com/careers/) | Roppongi |
 | |[iSpace](https://jobs.lever.co/ispace-inc)|Roppongi| 
 | |[Paidy](https://engineering.paidy.com/) | Roppongi |
-| |[be-spoke](http://www.be-spoke.io/#jobs) (Wataru)|Shibuya| 
+| |[be-spoke](http://www.be-spoke.io/#jobs)|Shibuya| 
 | |[Goodpatch](https://goodpatch.com/)| Shibuya | 
 | |[InfoStellar](https://www.infostellar.net/careers/)| Shibuya | 
 | |[moneytree](https://moneytree.jp/careers/)|Shibuya| 
