@@ -189,7 +189,7 @@ Tech Companies in Tokyo, Japan
 | |[Coincheck](https://corporate.coincheck.com/recruit/) | Shibuya |
 | |[Psygig](http://psygig.com/index.html#team)| Shibuya |
 | |[Zappallas](http://www.zappallas.com/recruit/) | Shibuya |
-| |[Coiney* (Keisuke)](coiney.com) | Shinjuku |
+| |[Coiney](coiney.com) | Shinjuku |
 | |[Abeja](https://abejainc.com/en/recruit/)|Shirokane|
 | |[Cambrian Robotics](https://obniz.io/) | Takadanobaba |
 | |[EmbodyMe](https://company.embodyme.com/) | Takadanobaba |
