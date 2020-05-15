@@ -56,7 +56,7 @@ Tech Companies in Tokyo, Japan
 ---
 ## <a name="companies">Companies</a>
 
-### <a name="Internships">Internships</a>
+### <a name="job">Jobs</a>
 | |Company | Location | 
 |---|---|---|
 | |[Atilika](https://www.atilika.com/en/careers/)| Aoyama Itchome | 
@@ -99,12 +99,6 @@ Tech Companies in Tokyo, Japan
 | |[Continental](http://www.continental-jobs.com/index.php?ac=jobad&id=746885)| Yokohama |
 | |[Kayac](https://www.kayac.com/en/recruit/foreign)| Yokohama | 
 | |[Net Smile](https://netsmile.jp/en/)| Yushima |
-|---|---|---|
-| |[Clearpath Robotics](https://www.clearpathrobotics.com/) | Ontario |
-
-### <a name="job">Jobs</a>
-| |Company | Location | 
-|---|---|---|
 | |[Nanameue](https://nanameue.jp/careers)|Akasaka| 
 | |[Orb, Inc.](https://imagine-orb.com/)| Akasaka | 
 | |[Engoo](https://app.engoo.com/jobs)|Ebisu| 
@@ -198,9 +192,6 @@ Tech Companies in Tokyo, Japan
 | |[Borderless](https://angel.co/borderless/jobs)| ? | 
 | |[Rurle](https://www.rurle.com/join-us) | ? |
 | |[Flower Robotics](http://www.flower-robotics.com/robots.html) | ? |
-|---|---|---|
-| |[1PlusX](https://www.1plusx.com/careers/) | Zurich |
-| | Amazon Robotics | Seattle |
 ---
 
 ## <a name="remote">Remote Work</a>
@@ -226,15 +217,8 @@ Tech Companies in Tokyo, Japan
 * https://github.com/btamada/jp-software-companies
 * [Tokyo Neighborhoods](https://en.wikipedia.org/wiki/Category:Neighborhoods_of_Tokyo)
 * [Application Email Example](https://www.tokyodev.com/2011/08/19/finding-a-job-as-a-ruby-developer-in-japan/)
-* Literally copy stuff and then tweak it
 * [Teach Yourself CS](https://teachyourselfcs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
 * Python 
    * "For image processing check out Pillow. 
    * For web scraping check out BeautifulSoup. 
    * For machine learning and scientific computing, check out scipy and matplotlib, or just get Anaconda."
-* An app that allows not for productivity, but filters out distractions. Potentially a one task application/device. Purposefully set up new ritual/routines/habits with this thing. (Mono Tsu) Promotes a digital to analog to digital flow. Emphsizes making things. Working iteratively. Open to serendipity. Emphasizes artisnal processes. Community. 
-* A place for guilt-free relaxation. One-purpose room. Leaving it all there. Places to work are simple and minimal.
-* It's not that you want to constrain yourself from flexibility. You simply want to restrain yourself from doing certain things. Pick things that allow variability, but are limited. ie you can write about many things, but you won't surf the internet looking for easy solutions. Something like that...
-
-## Other internships (US)
-* [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)
