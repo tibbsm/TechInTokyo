@@ -64,14 +64,14 @@ Tech Companies in Tokyo, Japan
 | |[Axelspace](https://www.axelspace.com/en/career_/open-positions/)| Nihonbashi | 
 | |[Mujin](https://mujin.co.jp/) |Oshiage| 
 | |[HENNGE](https://hennge.com/) | Shibuya | 
-|★|[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
-|★|[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
-|★|[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
-|X|[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
-|X|[Izumo Base](https://www.izumobase.com/recruit#internship) | Shinsen | 
-|X|[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
-|X|[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
-|X|[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
+| |[CREAM](https://www.cream-touch.com/contact-job/)| Nakameguro | 
+| |[MJI](https://mjirobotics.co.jp/en/)|Gaienmae| 
+| |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
+| |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
+| |[Izumo Base](https://www.izumobase.com/recruit#internship) | Shinsen | 
+| |[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
+| |[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
+| |[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
 | |[Dwango](http://dwango.co.jp/recruit/intern/) | Ginza |
 | |[Fove](http://www.getfove.com/)| Akihabara |
 | |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
@@ -130,9 +130,9 @@ Tech Companies in Tokyo, Japan
 | |[BeProud](https://www.beproud.jp/careers/en/) | Shinjuku |
 | |[Rapyuta](https://www.rapyuta-robotics.com/rapyuta-robotics/careers)|Shinkawa| 
 | |[Work Japan](https://www.workjapan.jp/) | Toranomon |
-|X|[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
-|X|[Origami](https://about.origami.com/careers/job/)| Roppongi |
-|X|[Line](https://engineering.linecorp.com/en/) | Shinjuku |
+| |[bitFlyer](https://bitflyer.com/en-jp/recruit/offers/43) | Roppongi |
+| |[Origami](https://about.origami.com/careers/job/)| Roppongi |
+| |[Line](https://engineering.linecorp.com/en/) | Shinjuku |
 | |[Clarity](https://www.clarity.tokyo/article/recruiting-engineer_02_en)| Aoyama-Itchome |
 | |[Squeeze](https://squeeze-inc.co.jp/job/7/)|Aoyama-Itchome| 
 | |[Teradata](https://www.teradata.com/Contact-Us#/?search=&region=Asia%20Pacific) | Akasaka |
