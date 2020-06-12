@@ -65,9 +65,9 @@ Tech Companies in Tokyo, Japan
 | |[Softbank Robotics](https://www.softbankrobotics.com/emea/en/about-us/jobs/offers) | Shimbashi |
 | |[MakeLeaps](https://www.makeleaps.com/en/jobs/)| Nakameguro | 
 | |[Izumo Base](https://www.izumobase.com/recruit#internship) | Shinsen | 
-| |[Yaraku](https://www.yaraku.com/careers/) (No reply)| Shibuya |
+| |[Yaraku](https://www.yaraku.com/careers/)| Shibuya |
 | |[Workshift](https://workshift-sol.co.jp/en/recruit.html) (Unpaid) | Shibuya | 
-| |[Everyst/96 Problems](https://fromeveryst.com/join-the-team/) (No reply)| Shimokitazawa | 
+| |[Everyst/96 Problems](https://fromeveryst.com/join-the-team/)| Shimokitazawa | 
 | |[Dwango](http://dwango.co.jp/recruit/intern/) | Ginza |
 | |[Fove](http://www.getfove.com/)| Akihabara |
 | |[Faith Inc.](https://www.faith-inc.com/global/index.html) | Aoyama Itchome |
